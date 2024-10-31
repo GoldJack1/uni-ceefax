@@ -28,5 +28,6 @@ OL,19, G-Weather....P150  NHS-111........P900
 OL,20, G-Games......P160  NationalLotto..P555 
 OL,21, YouTube......P200  TransitStatus..P600 
 OL,22, I Feel Lucky.P180  Spotify........P800 
-OL,23,AYOUTUBE   BWEATHER    CNEWS   DEVENTS  
-FL,200,8ff,8ff,8ff,8ff,100
+OL,23,
+OL,24,AYOUTUBE   BWEATHER    CNEWS   DEVENTS  
+FL,8ff,8ff,8ff,8ff,8ff,8ff

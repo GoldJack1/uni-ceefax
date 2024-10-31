@@ -1,12 +1,16 @@
 DE,
-PS,8000
-PN,25100
+DS,inserter
+SP,C:\Users\winga\Downloads\GoogleFax\P252.tti
+PN,25207
 SC,0000
+PS,8000
+CT,8,T
 RE,0
-FL,100,200,8ff,8ff,8ff,8ff
-OL,1,Wx4 |4 x||t l|,|<ZQh|||| |4h|(|||t(x||| 
+OL,0,        GOOGLEfax  %%a %d/%m/%y %H:%M@%S
+OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_}_wMDf
+OL,1,W|4 |4 x||t h| |4ZQh|||| |4h| |||t x||| 
 OL,2,W5 5j  5j 5ZQ  5  5j 5j 5   
-OL,3,W"o~' j  5j 5ZQ  5  5j w1   
+OL,3,W"o~' j  5j 5ZQ  5  5j 1   
 OL,4,W j  j  5j 5ZQ  5  5j 5j 5   
 OL,5,W */   +//'  +/' ZQ  /%  "//! ///' +/// 
 OL,6,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  
@@ -24,4 +28,5 @@ OL,19,  View/Manage Channel Posts.......P282
 OL,20,  View Channel Analytics..........P284  
 OL,21,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  
 OL,22,    FOR HELP USING YOUTUBE SEE P295     
-OL,23, A                                      
+OL,23, 
+Ol,24,ATRENDING BRECCOMENDED CNEWS DWEATHER  
