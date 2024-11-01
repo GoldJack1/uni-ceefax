@@ -6,7 +6,7 @@ SC,0000
 PS,8000
 CT,99,T
 RE,0
-OL,0,        GOOGLEfax  %%a %d/%m/%y %H:%M:%S
+OL,0,header_template=CEEFAX %%#  %%a %e %%b C%H:%M/%S
 OL,1, ]T|||||Q|||||S|||||T|||||R|    Q|||||  
 OL,2, ]T####Q###S###T####R    Q####  
 OL,3, ]T h||Q   S   T h||R    Q||4   
