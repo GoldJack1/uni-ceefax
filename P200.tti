@@ -5,7 +5,7 @@ PN,20000
 SC,0000
 PS,8000
 CT,99,T
-RE,0
+RE,0,        GOOGLEfaz  %%a %d/%m/%y %H:%M:%S
 OL,0,        GOOGLEfaz  %%a %d/%m/%y %H:%M:%S
 OL,1,W|4 |4 x||t h| |4ZQh|||| |4h| |||t x||| 
 OL,2,W5 5j  5j 5ZQ  5  5j 5j 5   
@@ -29,5 +29,5 @@ OL,20,  Subscription Feeds..............P2**
 OL,21,  Channel History.................P2**  
 OL,22,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  
 OL,23,
-OL,24,AYOUTUBE   BWEATHER    CNEWS   DEVENTS  
-FL,200,102,120,251,8ff,8ff
+OL,24,AYOUTUBE  BGLOGODEV CYTLOGODEv DINDEX  
+FL,200,101,101,100,8ff,8ff
