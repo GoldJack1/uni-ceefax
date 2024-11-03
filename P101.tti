@@ -1,4 +1,4 @@
-DE,
+DE,GoogleLogodev
 DS,inserter
 SP,C:\Users\winga\Downloads\P101.tti
 PN,10100
@@ -6,7 +6,7 @@ SC,0000
 PS,8000
 CT,99,T
 RE,0
-OL,0,header_template=CEEFAX %%#  %%a %e %%b C%H:%M/%S
+OL,0,XXXXXXXXInterFax mpp %%a %d/%m/%y %H:%M:%S
 OL,1, ]T|||||Q|||||S|||||T|||||R|    Q|||||  
 OL,2, ]T####Q###S###T####R    Q####  
 OL,3, ]T h||Q   S   T h||R    Q||4   
@@ -30,5 +30,5 @@ OL,20,               Tppp
 OL,21,               T####                    
 OL,22,Q]                                      
 OL,23,Q]   
-OL,24,Index  BWEATHER    CNEWS   DEVENTS  
-FL,100,102,120,251,8ff,8ff
+OL,24,AIndex  BYouTube   CNEWS   DEVENTS  
+FL,100,200,120,251,8ff,8ff
