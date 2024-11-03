@@ -1,12 +1,12 @@
-DE,
-DS,inserter
+DE,index
+DS,mainpage
 SP,C:\Users\winga\Downloads\P100.tti
 PN,10000
 SC,0000
 PS,8000
 CT,99,T
 RE,0
-OL,0,        GOOGLEfax  %%a %d/%m/%y %H:%M:%S
+OL,0,XXXXXXXXInterFax mpp %%a %d/%m/%y %H:%M:%S
 OL,1,TppppQ    S    T    Rp Q   Wppp  p  p p 
 OL,2,T###QppppSppppTppppR QpppW## p/p op? 
 OL,3,T ppQ##S##T##R Q#W|    "! 
@@ -29,5 +29,5 @@ OL,20, G-Games......P160  NationalLotto..P555
 OL,21, YouTube......P200  TransitStatus..P600 
 OL,22, I Feel Lucky.P180  Spotify........P800 
 OL,23,
-OL,24,AYOUTUBE   BWEATHER    CNEWS   DEVENTS  
-FL,200,102,120,251,8ff,8ff
+OL,24,AYouTube   BLogoDev    CNEWS   DEVENTS  
+FL,200,101,120,251,8ff,8ff
