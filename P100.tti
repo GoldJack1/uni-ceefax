@@ -6,7 +6,6 @@ SC,0000
 PS,8000
 CT,99,T
 RE,0
-OL,0,TemplateINTERFAX %%a %d %%b  H/%M/%S
 OL,1,TppppQ    S    T    Rp Q   Wppp  p  p p 
 OL,2,T###QppppSppppTppppR QpppW## p/p op? 
 OL,3,T ppQ##S##T##R Q#W|    "! 
