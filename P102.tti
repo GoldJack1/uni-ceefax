@@ -1,4 +1,4 @@
-DE,
+DE,Youtube Logo Dev
 DS,inserter
 SP,C:\Users\winga\Downloads\P103.tti
 PN,10200
@@ -6,7 +6,7 @@ SC,0000
 PS,8000
 CT,99,T
 RE,0
-OL,0,        GOOGLEfax  %%a %d/%m/%y %H:%M:%S
+OL,0,XXXXXXXXInterFax mpp %%a %d/%m/%y %H:%M:%S
 OL,1,ZT||||||||||||||||||||||||||||||||||||  
 OL,2,ZT                                ZT  
 OL,3,ZTYW| | ||| | |ZQ||| | | ||t ||| |ZT  
@@ -28,5 +28,5 @@ OL,19,W5 5j  5j 5ZQ  5  5j 5j 5
 OL,20,W"o~' j  5j 5ZQ  5  5j 1   
 OL,21,W j  j  5j 5ZQ  5  5j 5j 5   
 OL,22,W */   +//'  +/' ZQ  /%  "//! ///' +/// 
-OL,24,AYOUTUBE   BWEATHER    CNEWS   DEVENTS  
-FL,200,102,120,251,8ff,8ff
+OL,24,AYouTube   BWEATHER    CNEWS   DIndex  
+FL,200,102,120,100,8ff,8ff
