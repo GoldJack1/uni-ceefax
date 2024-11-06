@@ -6,7 +6,7 @@ SC,0000
 PS,8000
 CT,99,T
 RE,0,
-OL,0,XXXXXXXXInterText C%%a %d %%b %y W%H:%M:%S
+OL,0,XXXXXXXX%%#AWEBTextC%%a %d %%bG%H:%M:%S
 OL,1,ZT||||||||||||||||||||||||||||||||||||  
 OL,2,ZT                                ZT  
 OL,3,ZTYW| | ||| | |ZQ||| | | ||t ||| |ZT  
