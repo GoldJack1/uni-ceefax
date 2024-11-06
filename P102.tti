@@ -5,7 +5,8 @@ PN,10200
 SC,0000
 PS,8000
 CT,99,T
-RE,0,Teletext on 4 %%# %%b%dC%H:%M:%S
+RE,0,
+OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
 OL,1,ZT||||||||||||||||||||||||||||||||||||  
 OL,2,ZT                                ZT  
 OL,3,ZTYW| | ||| | |ZQ||| | | ||t ||| |ZT  
