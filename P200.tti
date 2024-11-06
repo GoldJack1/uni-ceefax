@@ -6,7 +6,7 @@ SC,0000
 PS,8000
 CT,99,T
 RE,0,
-OL,0,XXXXXXXXTEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,0,XXXXXXXXInterText C%%a %d %%b %y W%H:%M:%S
 OL,1,W|4 |4 x||t h| |4ZQh|||| |4h| |||t x||| 
 OL,2,W5 5j  5j 5ZQ  5  5j 5j 5   
 OL,3,W"o~' j  5j 5ZQ  5  5j 1   
