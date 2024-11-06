@@ -5,7 +5,7 @@ PN,25100
 SC,0000
 PS,8000
 CT,8,T
-RE,0
+RE,0,Teletext on 4 %%# %%b%dC%H:%M:%S
 OL,1,W|4 |4 x||t h| |4ZQh|||| |4h| |||t x||| 
 OL,2,W5 5j  5j 5ZQ  5  5j 5j 5   
 OL,3,W"o~' j  5j 5ZQ  5  5j 1   

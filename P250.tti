@@ -5,7 +5,7 @@ PN,25000
 SC,0000
 PS,8000
 CT,99,T
-RE,0
+RE,0,Teletext on 4 %%# %%b%dC%H:%M:%S
 OL,1,                           W`|0         
 OL,2, Connecting to YouTube...  Wo?         
 OL,3, Dialing                   W           
