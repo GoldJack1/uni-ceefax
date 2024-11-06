@@ -2,8 +2,7 @@ DE,
 PS,8004
 PN,25400
 SC,0000
-RE,0
-header_template=ORACLE %%# %%a%e %%bCITV %H%M:%S
+RE,0,header_template=ORACLE %%# %%a%e %%bCITV %H%M:%S
 OL,1,W|4 |4 x||t h| |4ZQh|||| |4h| |||t x||| 
 OL,2,W5 5j  5j 5ZQ  5  5j 5j 5   
 OL,3,W"o~' j  5j 5ZQ  5  5j 1   
@@ -25,5 +24,6 @@ OL,20,  View Channel Analytics..........P284
 OL,21,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  
 OL,22,    FOR HELP USING YOUTUBE SEE P295     
 OL,23,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  
-OL,24,AYTOffline  BG-Talks  CYThelp DIndex  
+OL,24,Welcome Test Line
+OL,25,AYTOffline  BG-Talks  CYThelp DIndex  
 FL,200,130,295,100,8ff,8ff
