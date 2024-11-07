@@ -1,0 +1,29 @@
+DE,test page
+PS,8000
+PN,89900
+SC,0000
+RE,0
+OL,1, 1                                      
+OL,2, 2abcdefghijklmnopqrstuvwxyz 1234567890 
+OL,3, 3ABCDEFGHIJKLMNOPQRSTUVWXYZ !@#$%^&*() 
+OL,4, 4                                      
+OL,5,M5-`=+[{]};:'"\|,<.>/?~  Double Height  
+OL,6,n6                                      
+OL,7, 7                                      
+OL,8, 8 STEADYHFLASHI  Visable  XHiddenX     
+OL,9, 8                                      
+OL,10,10ARED     Qp,f9#Z#5j,pHYI ]V,,,,,,,
+OL,11,11BGREEN   Rp,f9#Z#5j,pHYI ]W,,,,,,,
+OL,12,12CYELLOW  Sp,f9#Z#5j,pHYI ]T,,,,,,,
+OL,13,13DBLUE    Tp,f9#Z#5j,pHYI ]S,,,,,,,
+OL,14,14EMAGENTA Up,f9#Z#5j,pHYI ]Q,,,,,,,
+OL,15,15FCYAN    Vp,f9#Z#5j,pHYI ]U,,,,,,,
+OL,16,16GWHITE   Wp,f9#Z#5j,pHYI ]R,,,,,,,
+OL,17,17                                      
+OL,18,18Q!"$(0`4%#*hp,'+xt/|}w?o{~            
+OL,19,19R |||| |||| |||| |||| |||| |||| ||||  
+OL,20,20S  j5           j5              
+OL,21,21T  j5  |4  |||  j5  ||  || ||   
+OL,22,22V  j5           j5              
+OL,23,23W  j5  ||| |||  j5      || |||  
+OL,24,24AREDOPT BGREENOPT CYELLOWOPT  DBLUEOPT
