@@ -1,0 +1,117 @@
+DE,Flights
+PS,8000
+PN,17101
+SC,0001
+CT,30,T
+RE,0
+OL,1,R`p0       `   R]Tp0p0p000p00  Z 8,,0   
+OL,2,Rj`0<lh,4<lj <lR]Tj u%5555u 5  Zjc{3{   
+OL,3,Rjp5uzjp5uzj0wsR]Tj 5575e%u0u0 Zjrzu   
+OL,4,R        ,.    R]T             Z !  !   
+OL,5,                                     1/4
+OL,6,MFlights: Mon 10th Apr 2025 (2nd Class) 
+OL,8,RZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,9, London Heathrow LHR -----] New York JFK
+OL,10,AVirgin Alantic:G20:00DBSTG- 23:20SESTG 
+OL,11, One Way -F#70GReturn -F#140            
+OL,12,B25KG/ppGBaggage Included,extraB- #35/pp
+OL,13,RZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,14,GLondon Heathrow LHR ---] Manchester MAN
+OL,15,DBritish Airways:G15:22DBSTG- 16:30DBST 
+OL,16, One Way -F#25GReturn -F#50             
+OL,17,B15KG/ppGBaggage Included,extraB- #25/pp
+OL,18,RZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,19, London Heathrow LHR ---] Perth (AU) PER
+OL,20,EQuantas:G(10)11:56DBSTG-(11)11:40QAWST 
+OL,21, One Way -F#425GReturn -F#700           
+OL,22,B35KG/ppGBaggage Included,extraB- #45/pp
+OL,23,T]GTo Book Flights, Visit Travel Agents 
+OL,24,AFERRYS   BHOTELS   CTOURGUIDES   DINDEX
+FL,172,175,178,100,8ff,8ff
+PS,8000
+PN,17102
+SC,0002
+CT,30,T
+RE,0
+OL,1,R`p0       `   R]Tp0p0p000p00  Z 8,,0   
+OL,2,Rj`0<lh,4<lj <lR]Tj u%5555u 5  Zjc{3{   
+OL,3,Rjp5uzjp5uzj0wsR]Tj 5575e%u0u0 Zjrzu   
+OL,4,R        ,.    R]T             Z !  !   
+OL,5,                                     2/4
+OL,6,MFlights: Mon 10th Apr 2025 (1st Class) 
+OL,8,RZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,9, London Heathrow LHR -----] New York JFK
+OL,10,AVirgin Alantic:G20:00DBSTG- 23:20SESTG 
+OL,11, One Way -F#140GReturn -F#360           
+OL,12,B25KG/ppGBaggage Included,extraB- #35/pp
+OL,13,RZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,14,GLondon Heathrow LHR ---] Manchester MAN
+OL,15,DBritish Airways:G15:22DBSTG- 16:30DBST 
+OL,16, One Way -F#90GReturn -F#194            
+OL,17,B15KG/ppGBaggage Included,extraB- #25/pp
+OL,18,RZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,19, London Heathrow LHR ---] Perth (AU) PER
+OL,20,EQuantas:G(10)11:56DBSTG-(11)11:40QAWST 
+OL,21, One Way -F#937GReturn -F#1835          
+OL,22,B35KG/ppGBaggage Included,extraB- #45/pp
+OL,23,T]GTo Book Flights, Visit Travel Agents 
+OL,24,AFERRYS   BHOTELS   CTOURGUIDES   DINDEX
+FL,172,175,178,100,8ff,8ff
+PS,8000
+PN,17103
+SC,0003
+CT,30,T
+RE,0
+OL,1,R pp        0  R]T p`p`p```p`  Z `,,d   
+OL,2,R 5ph,4<lh,45h,R]T 5j:jjjjj0j  Z 7swc5  
+OL,3,R uzjp5uzjp5ujsR]T 5jjjk*:jpjp Z uqz5  
+OL,4,R        (,%   R]T             Z "  "   
+OL,5,                                     3/4
+OL,6,MFlights: Mon 10th Apr 2025 (2nd Class) 
+OL,8,RZ ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$
+OL,9, Leeds Bradford LBA -----] Barcolona BCN
+OL,10,CRyanair:G12:24DBSTG- 16:00SCESTG       
+OL,11, One Way -F#20GReturn -F#40             
+OL,12,B10KG/ppGBaggage Included,extraB- #27/pp
+OL,13,RZ ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$
+OL,14,GManchester MAN -------------] Dubai DXB
+OL,15,AEmriates:G09:50DBSTG- 20:00EGST        
+OL,16, One Way -F#432GReturn -F#884           
+OL,17,B25KG/ppGBaggage Included,extraB- #45/pp
+OL,18,RZ ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$
+OL,19, London Heathrow LHR --] Los Angeles LAX
+OL,20,AVirgin Alantic:G11:05DBSTG- 14:25QPDT  
+OL,21, One Way -F#635GReturn -F#1095          
+OL,22,B27KG/ppGBaggage Included,extraB- #36/pp
+OL,23,T]GTo Book Flights, Visit Travel Agents 
+OL,24,AFERRYS   BHOTELS   CTOURGUIDES   DINDEX
+FL,172,175,178,100,8ff,8ff
+PS,8000
+PN,17104
+SC,0004
+CT,30,T
+RE,0
+OL,1,R pp        0  R]T p`p`p```p`  Z `,,d   
+OL,2,R 5ph,4<lh,45h,R]T 5j:jjjjj0j  Z 7swc5  
+OL,3,R uzjp5uzjp5ujsR]T 5jjjk*:jpjp Z uqz5  
+OL,4,R        (,%   R]T             Z "  "   
+OL,5,                                     4/4
+OL,6,MFlights: Mon 10th Apr 2025 (1st Class) 
+OL,8,RZ ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$
+OL,9, Leeds Bradford LBA -----] Barcolona BCN
+OL,10,CRyanair:G12:24DBSTG- 16:00SCESTG       
+OL,11,A(No 1st Class Fare for this Flight)    
+OL,12,B10KG/ppGBaggage Included,extraB- #27/pp
+OL,13,RZ ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$
+OL,14,GManchester MAN -------------] Dubai DXB
+OL,15,AEmriates:G09:50DBSTG- 20:00EGST        
+OL,16, One Way -F#1332GReturn -F#3264         
+OL,17,B25KG/ppGBaggage Included,extraB- #45/pp
+OL,18,RZ ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$
+OL,19, London Heathrow LHR --] Los Angeles LAX
+OL,20,AVirgin Alantic:G11:05DBSTG- 14:25QPDT  
+OL,21, One Way -F#1235GReturn -F#2395         
+OL,22,B27KG/ppGBaggage Included,extraB- #36/pp
+OL,23,T]GTo Book Flights, Visit Travel Agents 
+OL,24,AFERRYS   BHOTELS   CTOURGUIDES   DINDEX
+FL,172,175,178,100,8ff,8ff
