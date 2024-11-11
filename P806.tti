@@ -29,5 +29,5 @@ OL,20,  Subscription Feeds..............P2**
 OL,21,  Channel History.................P2**  
 OL,22,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  
 OL,23,
-OL,24,AYOUTUBE  BGLOGODEV CYTLOGODEV DINDEX  
-FL,200,101,101,100,8ff,8ff
+OL,24,ADEVHOME   BPREVPAGE  CNEXTPAGE   DINDEX
+FL,800,805,807,100,8ff,8ff

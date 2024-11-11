@@ -30,5 +30,5 @@ OL,20,               Tppp
 OL,21,               T####                    
 OL,22,Q]                                      
 OL,23,Q]   
-OL,24,AIndex  BYouTube   CNEWS   DEVENTS  
-FL,100,200,120,251,8ff,8ff
+OL,24,ADEVHOME   BPREVPAGE  CNEXTPAGE   DINDEX
+FL,800,802,804,100,8ff,8ff

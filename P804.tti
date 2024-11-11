@@ -28,5 +28,5 @@ OL,19,W5 5j  5j 5ZQ  5  5j 5j 5
 OL,20,W"o~' j  5j 5ZQ  5  5j 1   
 OL,21,W j  j  5j 5ZQ  5  5j 5j 5   
 OL,22,W */   +//'  +/' ZQ  /%  "//! ///' +/// 
-OL,24,AYouTube   BWEATHER    CNEWS   DIndex  
-FL,200,102,120,100,8ff,8ff
+OL,24,ADEVHOME   BPREVPAGE  CNEXTPAGE   DINDEX
+FL,800,803,805,100,8ff,8ff

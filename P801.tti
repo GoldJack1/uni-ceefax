@@ -29,5 +29,6 @@ OL,20, G-Games......P160  NationalLotto..P555
 OL,21, YouTube......P200  TransitStatus..P600 
 OL,22, I Feel Lucky.P180  Spotify........P800 
 OL,23,
-OL,24,AYouTube   BLogoDev    CNEWS   DEVENTS  
-FL,200,101,120,251,8ff,8ff
+OL,24,ADEVHOME   BXXXXPAGE  CNEXTPAGE   DINDEX
+FL,800,8ff,802,100,8ff,8ff
+
