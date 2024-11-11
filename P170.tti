@@ -1,0 +1,29 @@
+DE,GTravelIndex
+PS,8000
+PN,17000
+SC,0001
+RE,0
+FL,171,175,177,100,8ff,8ff
+OL,1,R`p0       `   R]Tpp0`p0 `p ` ` pp0`    
+OL,2,Rj`0<lh,4<lj <lR]T 5 jp: up5j j up j    
+OL,3,Rjp5uzjp5uzj0wsR]T 5 j j 5 5 e% up0jpp  
+OL,4,R        ,.    R]T                      
+OL,6,GWELCOME TO G-TRAVEL!T ]              \ 
+OL,7,R<,,,,,,,,,,,,,,,,,,lT]   Qxt     \
+OL,8, ADestinaton of the  T]   Q7   k     \
+OL,9,  Aday:CAustrallia!  T]Sxt  \
+OL,10,R-,,,,,,,,,,,,,,,,,,.T]S  \
+OL,11, Flights.........P171T]S'RpppppS+  \
+OL,12, Ferrys..........P172T]SR~///' S  \
+OL,13, Trains..........P173T]SR5     S  \
+OL,14, Coaches.........P174T]SR5  }S  \
+OL,15,R,,,,,,,,,,,,,,,,,,,,T]SR5   jS  \
+OL,16, Hotels..........P175T]SRo|||?S  \
+OL,17, Villas..........P176T]StR#####Sx  \
+OL,18,R,,,,,,,,,,,,,,,,,,,,T]S  \
+OL,19, Trending Places.P177T]S+'  \
+OL,20, Tour Guides.....P178T]Q *?   o%   \
+OL,21, Price Tracker...P179 T]Q "#     #!   \ 
+OL,23,T]G Don't know where to go? - See P177  
+OL,24,AFLIGHTS   BHOTELS  CTOURGUIDES   DINDEX
+FL,171,175,177,100,8ff,8ff

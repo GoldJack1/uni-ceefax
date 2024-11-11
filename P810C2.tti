@@ -1,0 +1,53 @@
+DE,GTravelDEV
+PS,8000
+PN,81001
+SC,0001
+CT,30,T 
+RE,0
+OL,1,R`p0       `   R]Tp0p0p000p00  Z 8,,0   
+OL,2,Rj`0<lh,4<lj <lR]Tj u%5555u 5  Zjc{3{   
+OL,3,Rjp5uzjp5uzj0wsR]Tj 5575e%u0u0 Zjrzu   
+OL,4,R        ,.    R]T             Z !  !   
+OL,7, Flights.........P171                   
+OL,8, Ferrys..........P172                   
+OL,9, Trains..........P173                   
+OL,10, Coaches.........P174                   
+OL,12, Hotels..........P175                   
+OL,13, Villas..........P176                   
+OL,15, Trending Places.P177                   
+OL,16, Tour Guides.....P178                   
+OL,17, Price Tracker...P179                   
+OL,19, Todays Destination                     
+OL,20, is:MAMSTERDAM                          
+OL,21, I                                      
+OL,23,T]G                                     
+OL,24,QDEVHOME   BPREVPAGE  CNEXTPAGE   DINDEX
+FL,800,809,811,100,8ff,8ff
+PS,8000
+PN,81002
+SC,0002
+CT,30,T 
+RE,0
+OL,1,R`p0       `   R]Tp0p0p000p00  Z 8,,0   
+OL,2,Rj`0<lh,4<lj <lR]Tj u%5555u 5  Zjc{3{   
+OL,3,Rjp5uzjp5uzj0wsR]Tj 5575e%u0u0 Zjrzu   
+OL,4,R        ,.    R]T             Z !  !   
+OL,6,                     W      `ppppp      
+OL,7, Flights.........P171W      ?///5     
+OL,8, Ferrys..........P172W      5   5     
+OL,9, Trains..........P173W   x||}|||}|t   
+OL,10, Coaches.........P174W  j5  
+OL,11,                     W  j////////////5  
+OL,12, Hotels..........P175W  j  `~'   5  
+OL,13, Villas..........P176W  j  j!       5  
+OL,14,                     W  j  j  h||4  5  
+OL,15, Trending Places.P177W  j  j  "#5  5  
+OL,16, Tour Guides.....P178W  j  jtppx5  5  
+OL,17, Price Tracker...P179W  j   +////'   5  
+OL,18,                     W  j5  
+OL,19, Todays Destination  W  "o?!  
+OL,20, is:MAMSTERDAM     LsW    o%   o?    
+OL,21, I                  TWWW                
+OL,23,T]G                                     
+OL,24,QDEVHOME   BPREVPAGE  CNEXTPAGE   DINDEX
+FL,800,809,811,100,8ff,8ff
