@@ -1,0 +1,62 @@
+DE,ukweather1
+PS,8000
+PN,15001
+SC,0001
+CT,20,T
+RE,0
+OL,1,T]C    Weather for Friday Daytime       
+OL,2,             T 4`~}|}            G     
+OL,3, UK Map     T`?0~G12T%                  
+OL,4, 1 of 2   ^Tj**^7pp                 
+OL,5,            ^T({S5                
+OL,6,      DRain ST!'~G11S! CSunny         
+OL,7,            ^T ~oSw1                 
+OL,8,            ^T*y?Rsp                 
+OL,9,            ^R )"_G11R}                
+OL,10,        ^Rp|t  xg0               
+OL,11,       ^RnG12RtR+" G12R               
+OL,12,       ^R+T`4 +R|0             
+OL,13,        ^R+%*o!T"   *Ru             
+OL,14,               T`   *G11R}            
+OL,15,               Rk|            
+OL,16,    BCloudy    R'oG09R}zt         
+OL,17,                RjG10R         
+OL,18,              Rx|G10R'         
+OL,19,              ^R! +/'kqp0        
+OL,20,               R  tG10R/!        
+OL,21,              R zG13R?s///?!          
+OL,22,            ^R8?' "'    "               
+OL,23,D]G G-Weather from The Weather Channel  
+OL,24,AWEATHERIDXBCITIESFCTCWEATHERWARNSDINDEX
+FL,150,152,159,100,8ff,199
+DE,ukweather2
+PS,8000
+PN,15102
+SC,0002
+CT,20,T
+RE,0
+OL,1,T]C     Weather for Friday Night        
+OL,2,             T 4`~}|}            G     
+OL,3, UK Map     T`?0~G08T%                  
+OL,4, 2 of 2   ^Tj**7pp                 
+OL,5,            ^T({5                
+OL,6,      DRain ST!'~G09T!                
+OL,7,            ^T ~ow1                 
+OL,8,            ^T*y?sp                 
+OL,9,            ^T )"_G09T}                
+OL,10,         Rp|t  xg0               
+OL,11,        RnG07Rt +" G06T               
+OL,12,        R+ `4T+|0             
+OL,13,         R+%*o! " ^T*Ru             
+OL,14,               R`   *G07R}            
+OL,15,               Rk|            
+OL,16,    BCloudy    R'oG05R}zt         
+OL,17,                RjG05R         
+OL,18,              Rx|G05R'         
+OL,19,               R! +/'kqp0        
+OL,20,               R  tG05R/!        
+OL,21,              R zG07R?s///?!          
+OL,22,             R8?' "'    "               
+OL,23,D]G G-Weather from The Weather Channel  
+OL,24,AWEATHERIDXBCITIESFCTCWEATHERWARNSDINDEX
+FL,150,152,159,100,8ff,199
