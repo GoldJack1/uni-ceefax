@@ -60,3 +60,34 @@ OL,22,             R8?' "'    "
 OL,23,D]G G-Weather from The Weather Channel  
 OL,24,AWEATHERIDXBCITIESFCTCWEATHERWARNSDINDEX
 FL,150,152,159,100,8ff,199
+DE,weathergraphic
+PS,8000
+PN,15103
+SC,0003
+CT,20,T
+RE,0
+OL,1,T]                                      
+OL,2,T]                                      
+OL,3,T]S dj`$  jW       `0      x"p   0 6   
+OL,4,T]S(,=,  W`~}p    x|0   j5 #  (x};&  
+OL,5,T]S &j"$  Wo%   o%   "o|$  *%  
+OL,6,T]                                      
+OL,7,T]       W  p0      `0     p 4`0        
+OL,8,T]       W`~?c}0   x|0   #du&!        
+OL,9,T]       W*0o%   o%  "#;?3#        
+OL,10,T]        S`>!     V111   W/ 5*%        
+OL,11,T]                                      
+OL,12,T] W p       0      `0     V`t     h    
+OL,13,T]W`~}t  `pp:     x|0   V!5!   (z8   
+OL,14,T]W*?  (,,,,0   o%   V !     "    
+OL,15,T] V222  W"#i ,!   (,,,   S(058   dj`$  
+OL,16,T]W(((      !      "###   S,./,$ (,/-,  
+OL,17,T]                                      
+OL,18,T]  S |   | ||| ||| ||| | | ||| |||     
+OL,19,T]  S                        
+OL,20,T]  S  p  |4 |    | |4 |#     
+OL,21,T]  S                       
+OL,22,T]  S  / /  /// / /  /  / / /// / /     
+OL,23,T]                                      
+OL,24,AWEATHERIDXBCITIESFCTCWEATHERWARNSDINDEX
+FL,150,152,159,100,8ff,199
