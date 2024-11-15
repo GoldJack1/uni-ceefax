@@ -1,0 +1,269 @@
+DE,weathergraphic
+PS,8000
+PN,19901
+SC,0001
+CT,20,T
+RE,0
+OL,1,T]                                      
+OL,2,T]                                      
+OL,3,T]S dj`$  jW       `0      x"p   0 6   
+OL,4,T]S(,=,  W`~}p    x|0   j5 #  (x};&  
+OL,5,T]S &j"$  Wo%   o%   "o|$  *%  
+OL,6,T]                                      
+OL,7,T]       W  p0      `0     p 4`0        
+OL,8,T]       W`~?c}0   x|0   #du&!        
+OL,9,T]       W*0o%   o%  "#;?3#        
+OL,10,T]        S`>!     V111   W/ 5*%        
+OL,11,T]                                      
+OL,12,T] W p       0      `0     V`t     h    
+OL,13,T]W`~}t  `pp:     x|0   V!5!   (z8   
+OL,14,T]W*?  (,,,,0   o%   V !     "    
+OL,15,T] V222  W"#i ,!   (,,,   S(058   dj`$  
+OL,16,T]W(((      !      "###   S,./,$ (,/-,  
+OL,17,T]                                      
+OL,18,T]  S |   | ||| ||| ||| | | ||| |||     
+OL,19,T]  S                        
+OL,20,T]  S  p  |4 |    | |4 |#     
+OL,21,T]  S                       
+OL,22,T]  S  / /  /// / /  /  / / /// / /     
+OL,23,T]                                      
+DE,ukweather1
+PS,8000
+PN,19902
+SC,0002
+CT,20,T
+RE,0
+OL,1,T]C    Weather for Friday Daytime       
+OL,2,             T 4`~}|}            G     
+OL,3, UK Map     T`?0~G12T%                  
+OL,4, 1 of 2   ^Tj**^7pp                 
+OL,5,            ^T({S5                
+OL,6,      DRain ST!'~G11S! CSunny         
+OL,7,            ^T ~oSw1                 
+OL,8,            ^T*y?Rsp                 
+OL,9,            ^R )"_G11R}                
+OL,10,        ^Rp|t  xg0               
+OL,11,       ^RnG12RtR+" G12R               
+OL,12,       ^R+T`4 +R|0             
+OL,13,        ^R+%*o!T"   *Ru             
+OL,14,               T`   *G11R}            
+OL,15,               Rk|            
+OL,16,    BCloudy    R'oG09R}zt         
+OL,17,                RjG10R         
+OL,18,              Rx|G10R'         
+OL,19,              ^R! +/'kqp0        
+OL,20,               R  tG10R/!        
+OL,21,              R zG13R?s///?!          
+OL,22,            ^R8?' "'    "               
+OL,23,D]G G-Weather from The Weather Channel  
+DE,ukweather2
+PS,8000
+PN,19903
+SC,0003
+CT,20,T
+RE,0
+OL,1,T]C     Weather for Friday Night        
+OL,2,             T 4`~}|}            G     
+OL,3, UK Map     T`?0~G08T%                  
+OL,4, 2 of 2   ^Tj**7pp                 
+OL,5,            ^T({5                
+OL,6,      DRain ST!'~G09T!                
+OL,7,            ^T ~ow1                 
+OL,8,            ^T*y?sp                 
+OL,9,            ^T )"_G09T}                
+OL,10,         Rp|t  xg0               
+OL,11,        RnG07Rt +" G06T               
+OL,12,        R+ `4T+|0             
+OL,13,         R+%*o! " ^T*Ru             
+OL,14,               R`   *G07R}            
+OL,15,               Rk|            
+OL,16,    BCloudy    R'oG05R}zt         
+OL,17,                RjG05R         
+OL,18,              Rx|G05R'         
+OL,19,               R! +/'kqp0        
+OL,20,               R  tG05R/!        
+OL,21,              R zG07R?s///?!          
+OL,22,             R8?' "'    "               
+OL,23,D]G G-Weather from The Weather Channel  
+PS,8000
+PN,19904
+SC,0004
+CT,20,T
+RE,0
+OL,1,T]W    HS 0 4 0IW               pp0     
+OL,2,T]W    HS "du& IW  `pp         ~4    
+OL,3,T]W    HS"#;?3#IW xu      `~}|0  
+OL,4,T]W    HS & 5"$IWj4    *%  
+OL,5,T]Q  }0        W                       
+OL,6,T]Q  *t      W        `ppx||~,d0   
+OL,7,T]Q   k}0    Wppp||~?%  
+OL,8,T]W    o7!    
+OL,9,T]W    "///'###   >4     
+OL,10,T]W     "#/////###! z0>4         #!     
+OL,11,T]W                 -%#!                
+OL,12,T]                                      
+OL,13,R]                                      
+OL,14,R]    `pp   `pp                      0  
+OL,15,W#######################################
+OL,17,Wppppppppppppppppppppppppppppppppppppppp
+OL,18,R]$         0                           
+OL,19,R]Tj?//%j5   *//%j?//%j5 j5*//%j?//%  
+OL,20,R]Tjup0 j5       j5`p0jupz5    jupp0  
+OL,21,R]Tj7#! j5       j5"k5j7#k5    "##k5  
+OL,22,R]Tj5   j}||4h||4j}|~5j5 j5    h||~5  
+OL,23,R]    
+DE,Flights
+PS,8000
+PN,19905
+SC,0005
+CT,20,T
+RE,0
+OL,1,R`p0       `   R]Tp0p0p000p00  Z 8,,0   
+OL,2,Rj`0<lh,4<lj <lR]Tj u%5555u 5  Zjc{3{   
+OL,3,Rjp5uzjp5uzj0wsR]Tj 5575e%u0u0 Zjrzu   
+OL,4,R        ,.    R]T             Z !  !   
+OL,5,                                     1/4
+OL,6,MFlights: Mon 10th Apr 2025 (2nd Class) 
+OL,8,RZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,9, London Heathrow LHR -----] New York JFK
+OL,10,AVirgin Alantic:G20:00DBSTG- 23:20SESTG 
+OL,11, One Way -F#70GReturn -F#140            
+OL,12,B25KG/ppGBaggage Included,extraB- #35/pp
+OL,13,RZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,14,GLondon Heathrow LHR ---] Manchester MAN
+OL,15,DBritish Airways:G15:22DBSTG- 16:30DBST 
+OL,16, One Way -F#25GReturn -F#50             
+OL,17,B15KG/ppGBaggage Included,extraB- #25/pp
+OL,18,RZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,19, London Heathrow LHR ---] Perth (AU) PER
+OL,20,EQuantas:G(10)11:56DBSTG-(11)11:40QAWST 
+OL,21, One Way -F#425GReturn -F#700           
+OL,22,B35KG/ppGBaggage Included,extraB- #45/pp
+OL,23,T]GTo Book Flights, Visit Travel Agents 
+PS,8000
+PN,19906
+SC,0006
+CT,20,T
+RE,0
+OL,1,R`p0       `   R]Tp0p0p000p00  Z 8,,0   
+OL,2,Rj`0<lh,4<lj <lR]Tj u%5555u 5  Zjc{3{   
+OL,3,Rjp5uzjp5uzj0wsR]Tj 5575e%u0u0 Zjrzu   
+OL,4,R        ,.    R]T             Z !  !   
+OL,5,                                     2/4
+OL,6,MFlights: Mon 10th Apr 2025 (1st Class) 
+OL,8,RZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,9, London Heathrow LHR -----] New York JFK
+OL,10,AVirgin Alantic:G20:00DBSTG- 23:20SESTG 
+OL,11, One Way -F#140GReturn -F#360           
+OL,12,B25KG/ppGBaggage Included,extraB- #35/pp
+OL,13,RZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,14,GLondon Heathrow LHR ---] Manchester MAN
+OL,15,DBritish Airways:G15:22DBSTG- 16:30DBST 
+OL,16, One Way -F#90GReturn -F#194            
+OL,17,B15KG/ppGBaggage Included,extraB- #25/pp
+OL,18,RZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,19, London Heathrow LHR ---] Perth (AU) PER
+OL,20,EQuantas:G(10)11:56DBSTG-(11)11:40QAWST 
+OL,21, One Way -F#937GReturn -F#1835          
+OL,22,B35KG/ppGBaggage Included,extraB- #45/pp
+OL,23,T]GTo Book Flights, Visit Travel Agents 
+PS,8000
+PN,19907
+SC,0007
+CT,20,T
+RE,0
+OL,1,R`p0       `   R]Tp0p0p000p00  Z 8,,0   
+OL,2,Rj`0<lh,4<lj <lR]Tj u%u555u 5  Zjc{3{   
+OL,3,Rjp5uzjp5uzj0wsR]Tj 5555e%u0u0 Zjrzu   
+OL,4,R        ,.    R]T             Z !  !   
+OL,5,                                     3/4
+OL,6,MFlights: Mon 10th Apr 2025 (2nd Class) 
+OL,8,RZ ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$
+OL,9, Leeds Bradford LBA -----] Barcolona BCN
+OL,10,CRyanair:G12:24DBSTG- 16:00SCESTG       
+OL,11, One Way -F#20GReturn -F#40             
+OL,12,B10KG/ppGBaggage Included,extraB- #27/pp
+OL,13,RZ ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$
+OL,14,GManchester MAN -------------] Dubai DXB
+OL,15,AEmriates:G09:50DBSTG- 20:00EGST        
+OL,16, One Way -F#432GReturn -F#884           
+OL,17,B25KG/ppGBaggage Included,extraB- #45/pp
+OL,18,RZ ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$
+OL,19, London Heathrow LHR --] Los Angeles LAX
+OL,20,AVirgin Alantic:G11:05DBSTG- 14:25QPDT  
+OL,21, One Way -F#635GReturn -F#1095          
+OL,22,B27KG/ppGBaggage Included,extraB- #36/pp
+OL,23,T]GTo Book Flights, Visit Travel Agents 
+PS,8000
+PN,19908
+SC,0008
+CT,20,T
+RE,0
+OL,1,R`p0       `   R]Tp0p0p000p00  Z 8,,0   
+OL,2,Rj`0<lh,4<lj <lR]Tj u%u555u 5  Zjc{3{   
+OL,3,Rjp5uzjp5uzj0wsR]Tj 5555e%u0u0 Zjrzu   
+OL,4,R        ,.    R]T             Z !  !   
+OL,5,                                     4/4
+OL,6,MFlights: Mon 10th Apr 2025 (1st Class) 
+OL,8,RZ ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$
+OL,9, Leeds Bradford LBA -----] Barcolona BCN
+OL,10,CRyanair:G12:24DBSTG- 16:00SCESTG       
+OL,11,A(No 1st Class Fare for this Flight)    
+OL,12,B10KG/ppGBaggage Included,extraB- #27/pp
+OL,13,RZ ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$
+OL,14,GManchester MAN -------------] Dubai DXB
+OL,15,AEmriates:G09:50DBSTG- 20:00EGST        
+OL,16, One Way -F#1332GReturn -F#3264         
+OL,17,B25KG/ppGBaggage Included,extraB- #45/pp
+OL,18,RZ ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$
+OL,19, London Heathrow LHR --] Los Angeles LAX
+OL,20,AVirgin Alantic:G11:05DBSTG- 14:25QPDT  
+OL,21, One Way -F#1235GReturn -F#2395         
+OL,22,B27KG/ppGBaggage Included,extraB- #36/pp
+OL,23,T]GTo Book Flights, Visit Travel Agents          
+PS,8000
+PN,19909
+SC,0009
+CT,20,T
+RE,0
+OL,1,Q]W0 p0p0p0p0p000`p`p`p``` `p`p         
+OL,2,Q]W5 55j j u0u%u5j:j0jpjjj  5jp         
+OL,3,Q]Wu0u5j j u055j jjjp`zjzjp 5`z         
+OL,4,Q]                     "!        "     !
+OL,5,B                                    1/2
+OL,6,B  Draw - _46355456                     
+OL,7,B  Draw Date - Wed 13th November 2024   
+OL,9,  Th4h4h4h4h4h4 
+OL,10,  TjG11T5jG12T5jG28T5jG29T5jG41T5jG54T5 
+OL,11,  T*%*%*%*%*%*% 
+OL,13,  Qh4B   Jackpot - #2,000,000       
+OL,14,  QjG17Q5                               
+OL,15,  Q*%B   Jackpot Not Won            
+OL,17,BM Prize Breakdown:                     
+OL,20,B  Match 6:  0 MATCHES WON              
+OL,21,B           #0 PER WINNER               
+OL,22,B           #0 PRIZE FUND               
+PS,8000
+PN,19910
+SC,0010
+CT,20,T
+RE,0
+OL,1,Q]W0 p0p0p0p0p000`p`p`p``` `p`p         
+OL,2,Q]W5 55j j u0u%u5j:j0jpjjj  5jp         
+OL,3,Q]Wu0u5j j u055j jjjp`zjzjp 5`z         
+OL,4,Q]                     "!        "     !
+OL,5,B  Match 5 + BONUS: 0 MATCHES WON    2/2
+OL,6,B                  #0 PER WINNER        
+OL,7,B                  #0 PRIZE FUND        
+OL,9,B  Match 5: 43 MATCHES WON              
+OL,10,B          #1,750 PER WINNER            
+OL,11,B          #75,250 PRIZE FUND           
+OL,13,B  Match 4: 2,528 MATCHES WON           
+OL,14,B          #140 PER WINNER              
+OL,15,B          #353,920 PRIZE FUND          
+OL,17,B  Match 3: 65,946 MATCHES WON          
+OL,18,B          #30 PER WINNER               
+OL,19,B          #1,978,380 PRIZE FUND        
+OL,21,B  Match 2: 651,067 MATCHES WON         
+OL,22,          AFREE LUCKY DIPBPER WINNER    
+OL,23,B          #1,302,134 PRIZE FUND                        
