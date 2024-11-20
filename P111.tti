@@ -1,0 +1,29 @@
+DE,
+PS,8000
+PN,11101
+SC,0001
+RE,0
+OL,1,T]W   |0 | |  | ||||    ||  ||  ||      
+OL,2,T]W   t pp ppp pp              
+OL,3,T]W   "o ## ### ##              
+OL,4,T]W   /  / /  / ////    /// /// ///     
+OL,6, Get Help for Symptoms/Injurys.....P112 
+OL,7,ZT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,8, Prescription/Medicine Information.P113 
+OL,9,ZT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,10, Dental Help.......................P114 
+OL,11,ZT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,12, Get Help with an existing Medical      
+OL,13, Conditions/Injuries...............P115 
+OL,14,ZT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,15, Mental Health Help................P116 
+OL,16,ZT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,17, NHS-111 Callback..................P110 
+OL,18,ZT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,19, Other non-urgent NHS Services.....P108 
+OL,20, How the NHS-111-Text Works........P104 
+OL,21, NHS-111 FAQs......................P106 
+OL,22,ZT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,23,T]G  The NHS Text Infomation Service    
+OL,24,ADENTALHELP B111FAQS C111CALLBACK DINDEX
+FL,114,106,110,100,8ff,8ff
