@@ -12,13 +12,13 @@ OL,6,  ALotteryGResults................P556
 OL,7,  CEurpmillionsGResults...........P557  
 OL,8,  FSet for LifeGResults...........P558  
 OL,9,G EThunderballA(Draw In-Progress)GP5**  
-OL,10,  ALotto-HotpicksGResults.........P559  
-OL,11,  CEuromillions HotpicksGResults..P560  
-OL,13,  BInstant WinGGames..............P561  
+OL,10,  ALotto-HotpicksGResults.........P560 
+OL,11,  CEuromillions HotpicksGResults..P561  
+OL,13,  BInstant WinGGames..............P562 
 OL,14,   Buy a Ticket...................P571  
 OL,15,   Past Results...................P581  
-OL,16,   National Lotto FAQa............P550  
-OL,17,   National Draw Timings..........P553  
+OL,16,   National Lotto FAQs............P550  
+OL,17,   National Lotto Draw Timings....P553  
 OL,19, GMLatest Lotto Updates:                
 OL,21,  EThunderball Draw In-Progress         
 OL,22,  ECheck back at 9pm for Results        
@@ -38,15 +38,15 @@ OL,6,  ALotteryGResults................P556
 OL,7,  CEurpmillionsGResults...........P557  
 OL,8,  FSet for LifeGResults...........P558  
 OL,9,G EThunderballA(Draw In-Progress)GP5**  
-OL,10,  ALotto-HotpicksGResults.........P559  
-OL,11,  CEuromillions HotpicksGResults..P560  
-OL,13,  BInstant WinGGames..............P561  
+OL,10,  ALotto-HotpicksGResults.........P560 
+OL,11,  CEuromillions HotpicksGResults..P561  
+OL,13,  BInstant WinGGames..............P562 
 OL,14,   Buy a Ticket...................P571  
 OL,15,   Past Results...................P581  
-OL,16,   National Lotto FAQa............P550  
-OL,17,   National Draw Timings..........P553  
+OL,16,   National Lotto FAQs............P550  
+OL,17,   National Lotto Draw Timings....P553  
 OL,19, GMLatest Lotto Updates:                
-OL,21,  AIts a Lotto Must Be Won of £4 Mill
+OL,21,  AIts a Lotto Must Be Won of 4 Mill
 OL,22,  AGet your ticket today - See P571
 OL,24,ALOTTO BINSTANTWINS SEUROMILLIONS TINDEX
 FL,556,561,557,100,8ff,8ff
