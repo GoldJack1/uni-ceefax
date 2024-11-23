@@ -2,11 +2,12 @@ DE,
 PS,8000
 PN,70101
 SC,0001
+CT,1,T
 RE,0
-OL,1,]                                       
-OL,2,]@Teacher:Describe yourself in ONE wWrd 
-OL,3,]@Me:Bad with Numbers.                  
-OL,4,]@The Rest of the Class:                
+OL,1, ]                                      
+OL,2, ]@Teacher:Describe yourself in ONE Word
+OL,3, ]@Me:Bad with Numbers.                 
+OL,4, ]@The Rest of the Class:               
 OL,5,T]      R                               
 OL,6,T]      R                               
 OL,7,T]      R        p|}|p                
@@ -26,3 +27,203 @@ OL,20,T]      R    j        j5    5
 OL,21,T]      Rj}  j5        j5   h5        
 OL,22,T]      Rj2- 5        j5  `75        
 OL,23,T]      R o?$ !        ~5  "h%        
+DE,
+PS,8000
+PN,70102
+SC,0002
+CT,1,T
+RE,0
+OL,1, ]                                      
+OL,2, ]@Teacher:Describe yourself in ONE Word
+OL,3, ]@Me:Bad with Numbers.                 
+OL,4, ]@The Rest of the Class:               
+OL,5,T]      R                               
+OL,6,T]      R                               
+OL,7,T]      R        p|}|p                
+OL,8,T]      R      `~0              
+OL,9,T]      R     `~'#+'#+}0             
+OL,10,T]      R    `~tpxtpx4            
+OL,11,T]      R   x'   +4           
+OL,12,T]      R  x|tp||4          
+OL,13,T]      R            
+OL,14,T]      R  4         
+OL,15,T]      R jsssssu         
+OL,16,T]      R j5o?+         
+OL,17,T]      R % +'           
+OL,18,T]      R    "?!   5        
+OL,19,T]      R      #/////'j5    5        
+OL,20,T]      R    j        j5    5        
+OL,21,T]      Rj}  j5        j5    5        
+OL,22,T]      Rj2- 5        j5   `5        
+OL,23,T]      R o?$ !        ~5   *5        
+DE,
+PS,8000
+PN,70103
+SC,0003
+CT,1,T
+RE,0
+OL,1, ]                                      
+OL,2, ]@Teacher:Describe yourself in ONE Word
+OL,3, ]@Me:Bad with Numbers.                 
+OL,4, ]@The Rest of the Class:               
+OL,5,T]      R                               
+OL,6,T]      R                               
+OL,7,T]      R        p|}|p                
+OL,8,T]      R      `~0              
+OL,9,T]      R     `~'#+'#+}0             
+OL,10,T]      R    `~tpxtpx4            
+OL,11,T]      R   x'   +4           
+OL,12,T]      R  x|tp||4          
+OL,13,T]      R            
+OL,14,T]      R  4         
+OL,15,T]      R j1   bu         
+OL,16,T]      R j5o?+         
+OL,17,T]      R % +'           
+OL,18,T]      R    "?!   5        
+OL,19,T]      R      #/////'j5    5        
+OL,20,T]      R    j        j5    5        
+OL,21,T]      Rj}  j5        j5    5        
+OL,22,T]      Rj2- 5        j5   `5        
+OL,23,T]      R o?$ !        ~5   *5        
+DE,
+PS,8000
+PN,70104
+SC,0004
+CT,1,T
+RE,0
+OL,1, ]                                      
+OL,2, ]@Teacher:Describe yourself in ONE Word
+OL,3, ]@Me:Bad with Numbers.                 
+OL,4, ]@The Rest of the Class:               
+OL,5,T]      R                               
+OL,6,T]      R                               
+OL,7,T]      R        p|}|p                
+OL,8,T]      R      `~0              
+OL,9,T]      R     `~'#+'#+}0             
+OL,10,T]      R    `~tpxtpx4            
+OL,11,T]      R   x'   +4           
+OL,12,T]      R  x|tp||4          
+OL,13,T]      R            
+OL,14,T]      R  t         
+OL,15,T]      R j1   b?4        
+OL,16,T]      R j5o?!o0       
+OL,17,T]      R % +'  "}       
+OL,18,T]      R    "?!    "u      
+OL,19,T]      R      #/////'j5      "o}0    
+OL,20,T]      R    j        j5       (4   
+OL,21,T]      Rj}  j5        j5        "'    
+OL,22,T]      Rj2- 5        j5              
+OL,23,T]      R o?$ !        ~5              
+DE,
+PS,8000
+PN,70105
+SC,0005
+CT,1,T
+RE,0
+OL,1, ]                                      
+OL,2, ]@Teacher:Describe yourself in ONE Word
+OL,3, ]@Me:Bad with Numbers.                 
+OL,4, ]@The Rest of the Class:               
+OL,5,T]      R                               
+OL,6,T]      R                               
+OL,7,T]      R        p|}|p                
+OL,8,T]      R      `~0              
+OL,9,T]      R     `~'#+'#+}0             
+OL,10,T]      R    `~tpxtpx4            
+OL,11,T]      R   x'   +4           
+OL,12,T]      R  x|tp||4          
+OL,13,T]      R  0         
+OL,14,T]      R  u         
+OL,15,T]      R j1   b?4  `||   
+OL,16,T]      R j5o?!k0 *   
+OL,17,T]      R % +'   k}0 z?   
+OL,18,T]      R    "?!     +/!   
+OL,19,T]      R      #/////'j5              
+OL,20,T]      R    j        j5              
+OL,21,T]      Rj}  j5        j5              
+OL,22,T]      Rj2- 5        j5              
+OL,23,T]      R o?$ !        ~5              
+DE,
+PS,8000
+PN,70106
+SC,0006
+CT,1,T
+RE,0
+OL,2,   Teacher:Describe yourself in ONE Word
+OL,3,   Me:Bad with Numbers.                 
+OL,4,   The Rest of the Class:               
+OL,5,T]      R                               
+OL,6,T]      R                               
+OL,7,T]      R        p|}|p                
+OL,8,T]      R      `~0              
+OL,9,T]      R     `~'#+'#+}0             
+OL,10,T]      R    `~tpxtpx4            
+OL,11,T]      R   x'   +4           
+OL,12,T]      R  x|tp||4          
+OL,13,T]      R  0         
+OL,14,T]      R  u         
+OL,15,T]      R j1   b?4  `||   
+OL,16,T]      R j5o?!k0 *   
+OL,17,T]      R % +'   k}0 z?   
+OL,18,T]      R    "?!     +/!   
+OL,19,T]      R      #/////'j5              
+OL,20,T]      R    j        j5              
+OL,21,T]      Rj}  j5        j5              
+OL,22,T]      Rj2- 5        j5              
+OL,23,T]      R o?$ !        ~5              
+DE,
+PS,8000
+PN,70107
+SC,0007
+CT,1,T
+RE,0
+OL,2,   Teacher:Describe yourself in ONE Word
+OL,3,   Me:Bad with Numbers.                 
+OL,4,   The Rest of the Class:               
+OL,5,Q]      R                               
+OL,6,Q]      R                               
+OL,7,Q]      R        p|}|p                
+OL,8,Q]      R      `~0              
+OL,9,Q]      R     `~'#+'#+}0             
+OL,10,Q]      R    `~tpxtpx4            
+OL,11,Q]      R   x'   +4           
+OL,12,Q]      R  x|tp||4          
+OL,13,Q]      R  0         
+OL,14,Q]      R  u         
+OL,15,Q]      R j1   b?4  `||   
+OL,16,Q]      R j5o?!k0 *   
+OL,17,Q]      R % +'   k}0 z?   
+OL,18,Q]      R    "?!     +/!   
+OL,19,Q]      R      #/////'j5              
+OL,20,Q]      R    j        j5              
+OL,21,Q]      Rj}  j5        j5              
+OL,22,Q]      Rj2- 5        j5              
+OL,23,Q]      R o?$ !        ~5              
+DE,
+PS,8000
+PN,70108
+SC,0008
+CT,1,T
+RE,0
+OL,2,   Teacher:Describe yourself in ONE Word
+OL,3,   Me:Bad with Numbers.                 
+OL,4,   The Rest of the Class:               
+OL,5,Q]      P                               
+OL,6,Q]      P                               
+OL,7,Q]      P        p|}|p                
+OL,8,Q]      P      `~0              
+OL,9,Q]      P     `~'#+'#+}0             
+OL,10,Q]      P    `~tpxtpx4            
+OL,11,Q]      P   x'   +4           
+OL,12,Q]      P  x|tp||4          
+OL,13,Q]      P  0         
+OL,14,Q]      P  u         
+OL,15,Q]      P j1   b?4  `||   
+OL,16,Q]      P j5o?!k0 *   
+OL,17,Q]      P % +'   k}0 z?   
+OL,18,Q]      P    "?!     +/!   
+OL,19,Q]      P      #/////'j5              
+OL,20,Q]      P    j        j5              
+OL,21,Q]      Pj}  j5        j5              
+OL,22,Q]      Pj2- 5        j5              
+OL,23,Q]      P o?$ !        ~5              
