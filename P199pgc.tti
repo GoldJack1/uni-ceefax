@@ -1,278 +1,241 @@
-DE,weathergraphic
-PS,8000
+DE,Subhead
+DS,inserter
+SP,C:\Users\winga\Downloads\P999.tti
 PN,19901
 SC,0001
+PS,8000
 CT,20,T
 RE,0
-OL,1,T]                                      
-OL,2,T]                                      
-OL,3,T]S dj`$  jW       `0      x"p   0 6   
-OL,4,T]S(,=,  W`~}p    x|0   j5 #  (x};&  
-OL,5,T]S &j"$  Wo%   o%   "o|$  *%  
-OL,6,T]                                      
-OL,7,T]       W  p0      `0     p 4`0        
-OL,8,T]       W`~?c}0   x|0   #du&!        
-OL,9,T]       W*0o%   o%  "#;?3#        
-OL,10,T]        S`>!     V111   W/ 5*%        
-OL,11,T]                                      
-OL,12,T] W p       0      `0     V`t     h    
-OL,13,T]W`~}t  `pp:     x|0   V!5!   (z8   
-OL,14,T]W*?  (,,,,0   o%   V !     "    
-OL,15,T] V222  W"#i ,!   (,,,   S(058   dj`$  
-OL,16,T]W(((      !      "###   S,./,$ (,/-,  
-OL,17,T]                                      
-OL,18,T]  S |   | ||| ||| ||| | | ||| |||     
-OL,19,T]  S                        
-OL,20,T]  S  p  |4 |    | |4 |#     
-OL,21,T]  S                       
-OL,22,T]  S  / /  /// / /  /  / / /// / /     
-OL,23,T]                                      
-DE,ukweather1
-PS,8000
+OL,0,                                        
+OL,1,T]V|   | ||| ||t ||| ||| | | |||  `,<d  
+OL,2,T]V               k|7    ho,=nm 
+OL,3,T]V      1            jn,=nn 
+OL,4,T]Vopp?            z/u    *~,=n> 
+OL,5,T]V"/#/! /// //'  /  /// / /  /   ",-&  
+OL,6,T#######################################
+OL,7, ALATEST NEWS:                          
+OL,8, MWelcome to WEBTEXT - See 800 for Devs 
+OL,9, V                         8            
+OL,10,T|||||||||||||||||||||||||||||||||||||||
+OL,12, ------Google------  ---Popular Pages---
+OL,14, G-Events......P120  BBC News.......P400
+OL,15, G-Talks.......P130  Wikipedia......P450
+OL,16, G-News........P140  Twitter-(X)....P500
+OL,17, G-Weather.....P150  Amazon.........P700
+OL,18, G-Games.......P160  NHS-111........P111
+OL,19, G-Travel......P170  NationalLotto..P555
+OL,20, I-Feel-Lucky..P180  TransitStatus..P600
+OL,21, YouTube.......P200  Spotify........P650
+OL,23,T]G To See Developments - See Page 800  
+OL,24,AYouTube BTwitter(X) CBBC-NEWS  DNHS-111
+FL,200,500,400,111,8ff,100
 PN,19902
 SC,0002
+PS,8000
 CT,20,T
 RE,0
-OL,1,T]C    Weather for Friday Daytime       
-OL,2,             T 4`~}|}            G     
-OL,3, UK Map     T`?0~G12T%                  
-OL,4, 1 of 2   ^Tj**^7pp                 
-OL,5,            ^T({S5                
-OL,6,      DRain ST!'~G11S! CSunny         
-OL,7,            ^T ~oSw1                 
-OL,8,            ^T*y?Rsp                 
-OL,9,            ^R )"_G11R}                
-OL,10,        ^Rp|t  xg0               
-OL,11,       ^RnG12RtR+" G12R               
-OL,12,       ^R+T`4 +R|0             
-OL,13,        ^R+%*o!T"   *Ru             
-OL,14,               T`   *G11R}            
-OL,15,               Rk|            
-OL,16,    BCloudy    R'oG09R}zt         
-OL,17,                RjG10R         
-OL,18,              Rx|G10R'         
-OL,19,              ^R! +/'kqp0        
-OL,20,               R  tG10R/!        
-OL,21,              R zG13R?s///?!          
-OL,22,            ^R8?' "'    "               
-OL,23,D]G G-Weather from The Weather Channel  
-DE,ukweather2
-PS,8000
+OL,0,                                        
+OL,1,T]V|   | ||| ||t ||| ||| | | |||  `,<d  
+OL,2,T]V               k|7    ho,=nm 
+OL,3,T]V      1            jn,=nn 
+OL,4,T]Vopp?            z/u    *~,=n> 
+OL,5,T]V"/#/! /// //'  /  /// / /  /   ",-&  
+OL,6,T#######################################
+OL,7, ALATEST NEWS:                          
+OL,8, MThe US Election on Twitter - See P500 
+OL,9, V                         8            
+OL,10,T|||||||||||||||||||||||||||||||||||||||
+OL,12, ------Google------  ---Popular Pages---
+OL,14, G-Events......P120  BBC News.......P400
+OL,15, G-Talks.......P130  Wikipedia......P450
+OL,16, G-News........P140  Twitter-(X)....P500
+OL,17, G-Weather.....P150  Amazon.........P700
+OL,18, G-Games.......P160  NHS-111........P111
+OL,19, G-Travel......P170  NationalLotto..P555
+OL,20, I-Feel-Lucky..P180  TransitStatus..P600
+OL,21, YouTube.......P200  Spotify........P650
+OL,23,T]G To See Developments - See Page 800  
+OL,24,AYouTube BTwitter(X) CBBC-NEWS  DNHS-111
+FL,200,500,400,111,8ff,100
 PN,19903
 SC,0003
+PS,8000
 CT,20,T
 RE,0
-OL,1,T]C     Weather for Friday Night        
-OL,2,             T 4`~}|}            G     
-OL,3, UK Map     T`?0~G08T%                  
-OL,4, 2 of 2   ^Tj**7pp                 
-OL,5,            ^T({5                
-OL,6,      DRain ST!'~G09T!                
-OL,7,            ^T ~ow1                 
-OL,8,            ^T*y?sp                 
-OL,9,            ^T )"_G09T}                
-OL,10,         Rp|t  xg0               
-OL,11,        RnG07Rt +" G06T               
-OL,12,        R+ `4T+|0             
-OL,13,         R+%*o! " ^T*Ru             
-OL,14,               R`   *G07R}            
-OL,15,               Rk|            
-OL,16,    BCloudy    R'oG05R}zt         
-OL,17,                RjG05R         
-OL,18,              Rx|G05R'         
-OL,19,               R! +/'kqp0        
-OL,20,               R  tG05R/!        
-OL,21,              R zG07R?s///?!          
-OL,22,             R8?' "'    "               
-OL,23,D]G G-Weather from The Weather Channel  
-PS,8000
+OL,0,                                        
+OL,1,T]V|   | ||| ||t ||| ||| | | |||  `,<d  
+OL,2,T]V               k|7    ho,=nm 
+OL,3,T]V      1            jn,=nn 
+OL,4,T]Vopp?            z/u    *~,=n> 
+OL,5,T]V"/#/! /// //'  /  /// / /  /   ",-&  
+OL,6,T#######################################
+OL,7, ALATEST NEWS:                          
+OL,8, MDelays: TfL Victoria Line - See P605 
+OL,9, V                         8            
+OL,10,T|||||||||||||||||||||||||||||||||||||||
+OL,12, ------Google------  ---Popular Pages---
+OL,14, G-Events......P120  BBC News.......P400
+OL,15, G-Talks.......P130  Wikipedia......P450
+OL,16, G-News........P140  Twitter-(X)....P500
+OL,17, G-Weather.....P150  Amazon.........P700
+OL,18, G-Games.......P160  NHS-111........P111
+OL,19, G-Travel......P170  NationalLotto..P555
+OL,20, I-Feel-Lucky..P180  TransitStatus..P600
+OL,21, YouTube.......P200  Spotify........P650
+OL,23,T]G To See Developments - See Page 800  
+OL,24,AYouTube BTwitter(X) CBBC-NEWS  DNHS-111
+FL,200,500,400,111,8ff,100
 PN,19904
 SC,0004
+PS,8000
 CT,20,T
 RE,0
-OL,1,T]W    HS 0 4 0IW               pp0     
-OL,2,T]W    HS "du& IW  `pp         ~4    
-OL,3,T]W    HS"#;?3#IW xu      `~}|0  
-OL,4,T]W    HS & 5"$IWj4    *%  
-OL,5,T]Q  }0        W                       
-OL,6,T]Q  *t      W        `ppx||~,d0   
-OL,7,T]Q   k}0    Wppp||~?%  
-OL,8,T]W    o7!    
-OL,9,T]W    "///'###   >4     
-OL,10,T]W     "#/////###! z0>4         #!     
-OL,11,T]W                 -%#!                
-OL,12,T]                                      
-OL,13,R]                                      
-OL,14,R]    `pp   `pp                      0  
-OL,15,W#######################################
-OL,17,Wppppppppppppppppppppppppppppppppppppppp
-OL,18,R]$         0                           
-OL,19,R]Tj?//%j5   *//%j?//%j5 j5*//%j?//%  
-OL,20,R]Tjup0 j5       j5`p0jupz5    jupp0  
-OL,21,R]Tj7#! j5       j5"k5j7#k5    "##k5  
-OL,22,R]Tj5   j}||4h||4j}|~5j5 j5    h||~5  
-OL,23,R]    
-DE,Flights
-PS,8000
+OL,1,T]W   |0 | |  | ||||    ||  ||  ||      
+OL,2,T]W   t pp ppp pp              
+OL,3,T]W   "o ## ### ##              
+OL,4,T]W   /  / /  / ////    /// /// ///     
+OL,6, Get Help for Symptoms/Injurys.....P112 
+OL,7,ZT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,8, Prescription/Medicine Information.P113 
+OL,9,ZT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,10, Dental Help.......................P114 
+OL,11,ZT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,12, Get Help with an existing Medical      
+OL,13, Conditions/Injuries...............P115 
+OL,14,ZT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,15, Mental Health Help................P116 
+OL,16,ZT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,17, NHS-111 Callback..................P110 
+OL,18,ZT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,19, Other non-urgent NHS Services.....P108 
+OL,20, How the NHS-111-Text Works........P104 
+OL,21, NHS-111 FAQs......................P106 
+OL,22,ZT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,23,T]G  The NHS Text Infomation Service    
+OL,24,ADENTALHELP B111FAQS C111CALLBACK DINDEX
+FL,114,106,110,100,8ff,8ff
 PN,19905
 SC,0005
+PS,8000
 CT,20,T
 RE,0
-OL,1,R`p0       `   R]Tp0p0p000p00  Z 8,,0   
-OL,2,Rj`0<lh,4<lj <lR]Tj u%5555u 5  Zjc{3{   
-OL,3,Rjp5uzjp5uzj0wsR]Tj 5575e%u0u0 Zjrzu   
-OL,4,R        ,.    R]T             Z !  !   
-OL,5,                                     1/4
-OL,6,MFlights: Mon 10th Apr 2025 (2nd Class) 
-OL,8,RZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-OL,9, London Heathrow LHR -----] New York JFK
-OL,10,AVirgin Alantic:G20:00DBSTG- 23:20SESTG 
-OL,11, One Way -F#70GReturn -F#140            
-OL,12,B25KG/ppGBaggage Included,extraB- #35/pp
-OL,13,RZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-OL,14,GLondon Heathrow LHR ---] Manchester MAN
-OL,15,DBritish Airways:G15:22DBSTG- 16:30DBST 
-OL,16, One Way -F#25GReturn -F#50             
-OL,17,B15KG/ppGBaggage Included,extraB- #25/pp
-OL,18,RZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-OL,19, London Heathrow LHR ---] Perth (AU) PER
-OL,20,EQuantas:G(10)11:56DBSTG-(11)11:40QAWST 
-OL,21, One Way -F#425GReturn -F#700           
-OL,22,B35KG/ppGBaggage Included,extraB- #45/pp
-OL,23,T]GTo Book Flights, Visit Travel Agents 
-PS,8000
+OL,1,T]Whlhhh,  x x x   \Q]GCheck It's Not   
+OL,2,T]Wjjjn*l($j j j   \Q]G An Emergancy.   
+OL,3,T]W****(.  .$.$.$  \W]AIf So Dial 999!  
+OL,4,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,5, Signs of a Heart Attack                
+OL,6,BChest Pain, Pressure, Heaviness,       
+OL,7,BTightness or Squeezing across the chest
+OL,8,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,9, Signs of a Stroke                      
+OL,10,BFace Drooping on One Side, Can't Hold  
+OL,11,BBoth Arms Up, Difficulty Speaking      
+OL,12,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,13, Sudden Confusion (Deilrium)        B1/3
+OL,14,BCannot be sure of own name or age      
+OL,15,ZT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,16, Suicide Attempt                        
+OL,17,BBy taking something or Self-Harming    
+OL,18,ZT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,19, Severe Difficulty Breathing            
+OL,20,BNot being able to get words out,       
+OL,21,BChoking or Gasping                     
+OL,22,T]GPlease Check the Symptoms above, If  
+OL,23,T]GNone Match - Press 790 to Continue   
+OL,24,ADENTALHELP B111FAQS C111CALLBACK DINDEX
+FL,114,106,110,100,8ff,8ff
 PN,19906
 SC,0006
+PS,8000
 CT,20,T
 RE,0
-OL,1,R`p0       `   R]Tp0p0p000p00  Z 8,,0   
-OL,2,Rj`0<lh,4<lj <lR]Tj u%5555u 5  Zjc{3{   
-OL,3,Rjp5uzjp5uzj0wsR]Tj 5575e%u0u0 Zjrzu   
-OL,4,R        ,.    R]T             Z !  !   
-OL,5,                                     2/4
-OL,6,MFlights: Mon 10th Apr 2025 (1st Class) 
-OL,8,RZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-OL,9, London Heathrow LHR -----] New York JFK
-OL,10,AVirgin Alantic:G20:00DBSTG- 23:20SESTG 
-OL,11, One Way -F#140GReturn -F#360           
-OL,12,B25KG/ppGBaggage Included,extraB- #35/pp
-OL,13,RZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-OL,14,GLondon Heathrow LHR ---] Manchester MAN
-OL,15,DBritish Airways:G15:22DBSTG- 16:30DBST 
-OL,16, One Way -F#90GReturn -F#194            
-OL,17,B15KG/ppGBaggage Included,extraB- #25/pp
-OL,18,RZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-OL,19, London Heathrow LHR ---] Perth (AU) PER
-OL,20,EQuantas:G(10)11:56DBSTG-(11)11:40QAWST 
-OL,21, One Way -F#937GReturn -F#1835          
-OL,22,B35KG/ppGBaggage Included,extraB- #45/pp
-OL,23,T]GTo Book Flights, Visit Travel Agents 
-PS,8000
+OL,1,T]Whlhhh,  x x x   \Q]GCheck It's Not   
+OL,2,T]Wjjjn*l($j j j   \Q]G An Emergancy.   
+OL,3,T]W****(.  .$.$.$  \W]AIf So Dial 999!  
+OL,4,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,5, Signs of a Heart Attack                
+OL,6,BChest Pain, Pressure, Heaviness,       
+OL,7,BTightness or Squeezing across the chest
+OL,8,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,9, Signs of a Stroke                      
+OL,10,BFace Drooping on One Side, Can't Hold  
+OL,11,BBoth Arms Up, Difficulty Speaking      
+OL,12,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,13, Heavy bleeding                     B2/3
+OL,14,BSpraying, Pouring or a Puddle of Blood 
+OL,15,ZT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,16, Severe Injuries                        
+OL,17,BAfter a Serious Accident               
+OL,18,ZT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,19, Seizure (Fit)                          
+OL,20,BShaking or Jerking because of a Fit, or
+OL,21,BUnconscious (Can't be Woken Up)        
+OL,22,T]GPlease Check the Symptoms above, If  
+OL,23,T]GNone Match - Press 790 to Continue   
+OL,24,ADENTALHELP B111FAQS C111CALLBACK DINDEX
+FL,114,106,110,100,8ff,8ff
 PN,19907
 SC,0007
+PS,8000
 CT,20,T
 RE,0
-OL,1,R`p0       `   R]Tp0p0p000p00  Z 8,,0   
-OL,2,Rj`0<lh,4<lj <lR]Tj u%u555u 5  Zjc{3{   
-OL,3,Rjp5uzjp5uzj0wsR]Tj 5555e%u0u0 Zjrzu   
-OL,4,R        ,.    R]T             Z !  !   
-OL,5,                                     3/4
-OL,6,MFlights: Mon 10th Apr 2025 (2nd Class) 
-OL,8,RZ ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$
-OL,9, Leeds Bradford LBA -----] Barcolona BCN
-OL,10,CRyanair:G12:24DBSTG- 16:00SCESTG       
-OL,11, One Way -F#20GReturn -F#40             
-OL,12,B10KG/ppGBaggage Included,extraB- #27/pp
-OL,13,RZ ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$
-OL,14,GManchester MAN -------------] Dubai DXB
-OL,15,AEmriates:G09:50DBSTG- 20:00EGST        
-OL,16, One Way -F#432GReturn -F#884           
-OL,17,B25KG/ppGBaggage Included,extraB- #45/pp
-OL,18,RZ ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$
-OL,19, London Heathrow LHR --] Los Angeles LAX
-OL,20,AVirgin Alantic:G11:05DBSTG- 14:25QPDT  
-OL,21, One Way -F#635GReturn -F#1095          
-OL,22,B27KG/ppGBaggage Included,extraB- #36/pp
-OL,23,T]GTo Book Flights, Visit Travel Agents 
-PS,8000
+OL,1,T]Whlhhh,  x x x   \Q]GCheck It's Not   
+OL,2,T]Wjjjn*l($j j j   \Q]G An Emergancy.   
+OL,3,T]W****(.  .$.$.$  \W]AIf So Dial 999!  
+OL,4,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,5, Signs of a Heart Attack                
+OL,6,BChest Pain, Pressure, Heaviness,       
+OL,7,BTightness or Squeezing across the chest
+OL,8,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,9, Signs of a Stroke                      
+OL,10,BFace Drooping on One Side, Can't Hold  
+OL,11,BBoth Arms Up, Difficulty Speaking      
+OL,12,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,13, Sudden Rapid Swelling             B3/3 
+OL,14,BOf the Lips, Mouth, Throat or Tongue   
+OL,15,ZT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,16, Labour or Child Birth                  
+OL,17,BWaters Breaking, More Frequent Intense 
+OL,18,BCramps (Contractions)                  
+OL,19,BBaby Coming or Just Born               
+OL,20,ZT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,22,T]GPlease Check the Symptoms above, If  
+OL,23,T]GNone Match - Press 790 to Continue   
+OL,24,ADENTALHELP B111FAQS C111CALLBACK DINDEX
+FL,114,106,110,100,8ff,8ff
 PN,19908
 SC,0008
+PS,8000
 CT,20,T
 RE,0
-OL,1,R`p0       `   R]Tp0p0p000p00  Z 8,,0   
-OL,2,Rj`0<lh,4<lj <lR]Tj u%u555u 5  Zjc{3{   
-OL,3,Rjp5uzjp5uzj0wsR]Tj 5555e%u0u0 Zjrzu   
-OL,4,R        ,.    R]T             Z !  !   
-OL,5,                                     4/4
-OL,6,MFlights: Mon 10th Apr 2025 (1st Class) 
-OL,8,RZ ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$
-OL,9, Leeds Bradford LBA -----] Barcolona BCN
-OL,10,CRyanair:G12:24DBSTG- 16:00SCESTG       
-OL,11,A(No 1st Class Fare for this Flight)    
-OL,12,B10KG/ppGBaggage Included,extraB- #27/pp
-OL,13,RZ ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$
-OL,14,GManchester MAN -------------] Dubai DXB
-OL,15,AEmriates:G09:50DBSTG- 20:00EGST        
-OL,16, One Way -F#1332GReturn -F#3264         
-OL,17,B25KG/ppGBaggage Included,extraB- #45/pp
-OL,18,RZ ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$
-OL,19, London Heathrow LHR --] Los Angeles LAX
-OL,20,AVirgin Alantic:G11:05DBSTG- 14:25QPDT  
-OL,21, One Way -F#1235GReturn -F#2395         
-OL,22,B27KG/ppGBaggage Included,extraB- #36/pp
-OL,23,T]GTo Book Flights, Visit Travel Agents          
+OL,1,W`p0       `    ]Qp000p00``p`pZ<,,,<,,,4
+OL,2,Wj`0<lh,4<lj <l ]Qu 55u ?z 5jpZ55755jj 5
+OL,3,Wjp5uzjp5uzj0ws ]Qu0e%u05k 5`zZ5%-%5** 5
+OL,4,W        ,.     ]Q            Z########!
+OL,6,ZQ#GEvents Today.............P121Q# 
+OL,7,ZQ|GEvents This Week.........P122Q| 
+OL,8,ZQpGFuture Events............P123Qp 
+OL,9,ZQ#GLocal Sporting Events....P124Q# 
+OL,10,ZQ/GNational Sporting Events.P125Q/ 
+OL,11,ZQ,GTV Audience Event........P126Q, 
+OL,12,ZQpGDeveloper Events.........P127Qp 
+OL,14,Q]        0Wpppppppppppppppp0           
+OL,15,Q]         W5<l,l,,,<,,l,l,45           
+OL,16,Q]         W55*% / */ *% / 55           
+OL,17,Q]         W55             55           
+OL,18,Q]         W55             55           
+OL,19,Q]         W55             55           
+OL,20,Q]         Wu}|||||||||||||u5           
+OL,21,Q]        W~4          
+OL,22,Q]        W##################!          
+OL,24,AEVENTSTODAYBTVEVENTS CLOCALSPORTSDINDEX
+FL,121,126,124,100,8ff,8ff
+DE,
 PS,8000
 PN,19909
 SC,0009
-CT,20,T
-RE,0
-OL,1,Q]W0 p0p0p0p0p000`p`p`p``` `p`p         
-OL,2,Q]W5 55j j u0u%u5j:j0jpjjj  5jp         
-OL,3,Q]Wu0u5j j u055j jjjp`zjzjp 5`z         
-OL,4,Q]                     "!        "     !
-OL,5,B                                    1/2
-OL,6,B  Draw - _46355456                     
-OL,7,B  Draw Date - Wed 13th November 2024   
-OL,9,  Th4h4h4h4h4h4 
-OL,10,  TjG11T5jG12T5jG28T5jG29T5jG41T5jG54T5 
-OL,11,  T*%*%*%*%*%*% 
-OL,13,  Qh4B   Jackpot - #2,000,000       
-OL,14,  QjG17Q5                               
-OL,15,  Q*%B   Jackpot Not Won            
-OL,17,BM Prize Breakdown:                     
-OL,20,B  Match 6:  0 MATCHES WON              
-OL,21,B           #0 PER WINNER               
-OL,22,B           #0 PRIZE FUND               
 PS,8000
-PN,19910
-SC,0010
 CT,20,T
-RE,0
-OL,1,Q]W0 p0p0p0p0p000`p`p`p``` `p`p         
-OL,2,Q]W5 55j j u0u%u5j:j0jpjjj  5jp         
-OL,3,Q]Wu0u5j j u055j jjjp`zjzjp 5`z         
-OL,4,Q]                     "!        "     !
-OL,5,B  Match 5 + BONUS: 0 MATCHES WON    2/2
-OL,6,B                  #0 PER WINNER        
-OL,7,B                  #0 PRIZE FUND        
-OL,9,B  Match 5: 43 MATCHES WON              
-OL,10,B          #1,750 PER WINNER            
-OL,11,B          #75,250 PRIZE FUND           
-OL,13,B  Match 4: 2,528 MATCHES WON           
-OL,14,B          #140 PER WINNER              
-OL,15,B          #353,920 PRIZE FUND          
-OL,17,B  Match 3: 65,946 MATCHES WON          
-OL,18,B          #30 PER WINNER               
-OL,19,B          #1,978,380 PRIZE FUND        
-OL,21,B  Match 2: 651,067 MATCHES WON         
-OL,22,          AFREE LUCKY DIPBPER WINNER    
-OL,23,B          #1,302,134 PRIZE FUND     
-DE,
-PS,8000
-PN,19911
-SC,0011
-CT,20,T 
-RE,0
 OL,1,W`p0  ]Qp000p00``p`p Zp0p0`p`0 p0p000   
 OL,2,Wj`0p0]Qu 55u ?z 5jp Zp5p5***& 555555   
 OL,3,Wjp5  ]Qu0e%u05k 5`z Zu0u0     55u5i!   
@@ -293,11 +256,12 @@ OL,19,A18:00-23:00
 OL,20,AThe Welly, 105-107 Beverley Road,      
 OL,21,AKingston-Upon-Hull, HU3 1TS            
 OL,22,CTickets from #16.77                    
-DE,
+OL,24,AEVENTSFUTUREBTVEVENTSCLOCALSPORTSDINDEX
+FL,123,126,124,100,8ff,8ff
+PN,19910
+SC,0010
 PS,8000
-PN,19912
-SC,0012
-CT,20,T 
+CT,20,T
 RE,0
 OL,1,W`p0  ]Qp000p00``p`p Zp0p0`p`0 p0p000   
 OL,2,Wj`0p0]Qu 55u ?z 5jp Zp5p5***& 555555   
@@ -318,128 +282,40 @@ OL,18,BClark @ The White Hotel
 OL,19,A19:00-23:00                            
 OL,20,ADickinson Street, Salford, Manchester, 
 OL,21,AM3 7LW                                 
-OL,22,CTickets from #27.57     
-DE,
+OL,22,CTickets from #27.57  
+OL,24,AEVENTSFUTUREBTVEVENTSCLOCALSPORTSDINDEX
+FL,123,126,124,100,8ff,8ff
+PN,19911
+SC,0011
 PS,8000
-PN,19913
-SC,0013
-CT,25,T
+CT,20,T
 RE,0
-OL,1,Q`p0  ]W0``p` ``p Z 00p0p0p 0 p0p0p0p0  
-OL,2,Qj`0p0]W?zj0j jjp Z u5u u5555 j 55u u0  
-OL,3,Qjp5  ]W5kjp*8:`z Z 55u055u%u0z055u0p5  
-OL,4,Q     ]W                                
-OL,6, The Latest Headlines at 13:00B21/11A1/5
-OL,8,AStorm Bert named by the Met Office as  
-OL,9,ASnow and Rain Batters the UK on Sat    
-OL,11,FHeavy rain, snow, and strong winds are 
-OL,12,Fexpected this weekend. With a Yellow   
-OL,13,Fweather warning for snow & ice issued  
-OL,14,Ffor Merseyside from 12pm Thursday to   
-OL,15,F10am Friday. Temperatures in Liverpool 
-OL,16,Faccompanied by heavy rain. Though as   
-OL,17,Fwill drop to a low of -3B0C on Saturday
-OL,18,FWintry hazards diminish, heavy snowfall
-OL,19,Fis expected in North England & Scotland
-OL,21, SOURCE -ALIVERPOOL ECHO                
-DE,
+OL,1,W`p0       `    ]Up0p00 00p0            
+OL,2,Wj`0<lh,4<lj <l ]Uj u55 u%u0            
+OL,3,Wjp5uzjp5uzj0ws ]Uj 55u055p5            
+OL,4,W        ,.     ]U                      
+OL,6,U       `0                              
+OL,7,U     x~                              
+OL,8,U    h?'!  GNew Talks............P131  
+OL,9,W    j5     GReccomended Talks....P132  
+OL,10,W    j5     G                           
+OL,11,W    j5     GTalks by Genre.......P133  
+OL,12,W    j5     GHow-To Talks.........P134  
+OL,13,W    j5     G                           
+OL,14,W    j5     GGoogle Talk FAQs.....P137  
+OL,15,W    j5     GHow to get a card....P138  
+OL,16,W    j5     GWhere to get a card..P139  
+OL,17,W    j5     G                           
+OL,18,W    j5     GLocal In-Person            
+OL,19,W    j5     GTalks & Speeches.....P135  
+OL,20,W    j5                                 
+OL,21,U `~}0  GUK Parliment Timings.P136  
+OL,22,U j5                              
+OL,24,ARECOTALKSBUKPARLTIMES CLOCALTALKSDINDEX
+FL,132,136,135,100,8ff,8ff
+PN,19912
+SC,0012
 PS,8000
-PN,19914
-SC,0014
-CT,25,T
-RE,0
-OL,1,Q`p0  ]W0``p` ``p Z 00p0p0p 0 p0p0p0p0  
-OL,2,Qj`0p0]W?zj0j jjp Z u5u u5555 j 55u u0  
-OL,3,Qjp5  ]W5kjp*8:`z Z 55u055u%u0z055u0p5  
-OL,4,Q     ]W                                
-OL,6, The Latest Headlines at 13:00B21/11A2/5
-OL,8,DJohn Prescott, Ex-Deputy Prime Minister
-OL,9,Dof Britain, Dies at 86                 
-OL,11,FJohn Prescott a prominent GB politician
-OL,12,Fdied at 86. He passed away peacefully, 
-OL,13,Fsurrounded by family and jazz music. He
-OL,14,Fhad previously suffered a stroke & was 
-OL,15,Fliving with Alzheimers. John Prescot   
-OL,16,Fa working-class figure, represented    
-OL,17,FLabours roots when the party took      
-OL,18,Fpower in 1997. He championed the       
-OL,19,Fenvironmental causes and devolved      
-OL,20,Fpower from London to English regions.  
-OL,22, SOURCE -DThe New York Times                
-DE,
-PS,8000
-PN,19915
-SC,0015
-CT,25,T
-RE,0
-OL,1,Q`p0  ]W0``p` ``p Z 00p0p0p 0 p0p0p0p0  
-OL,2,Qj`0p0]W?zj0j jjp Z u5u u5555 j 55u u0  
-OL,3,Qjp5  ]W5kjp*8:`z Z 55u055u%u0z055u0p5  
-OL,4,Q     ]W                                
-OL,6, The Latest Headlines at 13:00B21/11A3/5
-OL,8,CThe ICC Issues Arrest Warrents for     
-OL,9,CIsraeli PM, Benjamin Netanyahu         
-OL,11,FThe International Criminal Court issues
-OL,12,Fwarrants of arrest for Israeli Prime   
-OL,13,FMinister Benjamin Netanyahu and former 
-OL,14,FDefence Minister Yoav Gallant, as well 
-OL,15,Fas Hamas military commander Mohammed   
-OL,16,FDeif. Lebanonbs southern Tyre district 
-OL,17,Fis being bombed by Israeli warplanes   
-OL,18,Fas the army issues a new round of      
-OL,19,Fforced evacuation threats.             
-OL,21, SOURCE -CAL Jazzera            
-DE,
-PS,8000
-PN,19916
-SC,0016
-CT,25,T
-RE,0
-OL,1,Q`p0  ]W0``p` ``p Z 00p0p0p 0 p0p0p0p0  
-OL,2,Qj`0p0]W?zj0j jjp Z u5u u5555 j 55u u0  
-OL,3,Qjp5  ]W5kjp*8:`z Z 55u055u%u0z055u0p5  
-OL,4,Q     ]W                                
-OL,6, The Latest Headlines at 13:00B21/11A4/5
-OL,8,CWest Yorkshires #2 bus fares to stay 
-OL,9,Cuntil the end of March 2025.           
-OL,11,FWest Yorkshire will continue its #2    
-OL,12,Fbus fares and #5 DaySaver tickets until 
-OL,13,FMarch 2025, thanks to #36.1 million in 
-OL,14,Ffunding. With WYCA aiming to keep bus  
-OL,15,Ffares low while investing in the bus   
-OL,16,Fnetwork. Which is crucial for regional 
-OL,17,Fgrowth and connectivity. Mayor Brabin  
-OL,18,Fintroduced Mayors Fares in September 22
-OL,19,Fto help make travel cheaper and easier.
-OL,20,FA new fare cap will be proposed for WY 
-OL,21,Ffor March 2025, in the coming weeks.   
-OL,23, SOURCE -CHuddersfield HUB   
-DE,
-PS,8000
-PN,19917
-SC,0017
-CT,25,T
-RE,0
-OL,1,Q`p0  ]W0``p` ``p Z 00p0p0p 0 p0p0p0p0  
-OL,2,Qj`0p0]W?zj0j jjp Z u5u u5555 j 55u u0  
-OL,3,Qjp5  ]W5kjp*8:`z Z 55u055u%u0z055u0p5  
-OL,4,Q     ]W                                
-OL,6, The Latest Headlines at 13:00B21/11A5/5
-OL,8,ASell Chrome to end Text Service monopoly,
-OL,9,ATold Google.
-OL,11,FThe US Department of Justice (DOJ) has 
-OL,12,Fproposed that Google sell its (CTS) 
-OL,13,FChrome Text Service and stop making its
-OL,14,FText Service the default on Televisions
-OL,15,Fand Connected Text Computers (PRESTEL).
-OL,16,FThe DOJ argues that these changes will
-OL,17,Frestore competition in the Text 
-OL,18,FService market.
-OL,20, SOURCE -AGOOGLESERVICENEWS         
-DE,
-PS,8000
-PN,19918
-SC,0018
 CT,20,T
 RE,0
 OL,1,W`p0       `    ]Up0p00 00p0            
@@ -459,10 +335,11 @@ OL,18,Arequire a View-Card to watch.
 OL,20,CYou can obtain a View-Card by calling  
 OL,21,C0800 432 5425 or can book and obtain a 
 OL,22,Ccard from your electriacl retailer.    
-DE,
+OL,24,ARECOTALKSBUKPARLTIMES CLOCALTALKSDINDEX
+FL,132,136,135,100,8ff,8ff
+PN,19913
+SC,0013
 PS,8000
-PN,19919
-SC,0019
 CT,20,T
 RE,0
 OL,1,W`p0       `    ]Up0p00 00p0            
@@ -482,10 +359,11 @@ OL,18,Arequire a View-Card to watch.
 OL,20,CYou can obtain a View-Card by calling  
 OL,21,C0800 432 5425 or can book and obtain a 
 OL,22,Ccard from your electriacl retailer.    
-DE,
+OL,24,ARECOTALKSBUKPARLTIMES CLOCALTALKSDINDEX
+FL,132,136,135,100,8ff,8ff
+PN,19914
+SC,0014
 PS,8000
-PN,19920
-SC,0020
 CT,20,T
 RE,0
 OL,1,W`p0       `    ]Up0p00 00p0            
@@ -505,3 +383,5 @@ OL,18,A38 and requires a View-Card to watch.
 OL,20,CYou can obtain a View-Card by calling  
 OL,21,C0800 432 5425 or can book and obtain a 
 OL,22,Ccard from your electriacl retailer.    
+OL,24,ARECOTALKSBUKPARLTIMES CLOCALTIMESDINDEX
+FL,132,136,135,100,8ff,8ff
