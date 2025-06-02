@@ -700,3 +700,1053 @@ OL,22,T]  S  / /  /// / /  /  / / /// / /
 OL,23,T]                                      
 OL,24,AWEATHERIDXBCITIESFCTCWEATHERWARNSDINDEX
 FL,150,152,159,100,8ff,199
+PN,19927
+SC,0027
+PS,8000
+CT,20,T
+RE,0
+OL,1,U`p0       `   U]Tp0p0pp0p0p0 `p  p p p 
+OL,2,Uj`0<lh,4<lj <lU]T50u5555u0u0 *?  #|#|# 
+OL,3,Ujp5uzjp5uzj0wsU]Tu555555u0p5  5  /p/p/ 
+OL,4,U        ,.    U]T            ##!  # #  
+OL,6, Bamboozle....P161                      
+OL,8, More Games Coming Soon...              
+OL,23,T]G                                     
+OL,24,QBAMBOOZLE  BG-NEWS   CG-WEATHER  DINDEX
+FL,161,140,150,100,8ff,8ff
+PN,19928
+SC,0028
+PS,8000
+CT,20,T
+RE,0
+OL,2,S//}                          j5      
+OL,3,S                            j5      
+OL,4,S||7 x|t x|p|t ||0`||0`||0h||4j5  x||t
+OL,5,S         j5j5j5j5j5 `>!j5  pp
+OL,6,S   `      j5j5j5j5j5h?! j5  ##!
+OL,7,S///' +'/ /   / ///!"//!"//!*//%"// +//'
+OL,8, ]                                      
+OL,10,  QUESTION 1                            
+OL,11,ZT,,,,,,,,,,,,,,,,,,,,,,,,,             
+OL,12,  What is the Dialing                   
+OL,13,  Code for Manchester?                  
+OL,15,Q]GP730 - 0204                          
+OL,17,R]DP731 - 0161                          
+OL,19,S]DP732 - 0192                          
+OL,21,T]GP733 - 0113                          
+OL,24,A???????? B????????  C???????? D????????
+FL,731,732,733,734,8ff,8ff
+PN,19929
+SC,0029
+PS,8000
+CT,20,T
+RE,0
+FL,171,175,177,100,8ff,8ff
+OL,1,R`p0       `   R]Tpp0`p0 `p ` ` pp0`    
+OL,2,Rj`0<lh,4<lj <lR]T 5 jp: up5j j up j    
+OL,3,Rjp5uzjp5uzj0wsR]T 5 j j 5 5 e% up0jpp  
+OL,4,R        ,.    R]T                      
+OL,6,GWELCOME TO G-TRAVEL!T ]              \ 
+OL,7,R<,,,,,,,,,,,,,,,,,,lT]   Qxt     \
+OL,8, ADestinaton of the  T]   Q7   k     \
+OL,9,  Aday:CAustrallia!  T]Sxt  \
+OL,10,R-,,,,,,,,,,,,,,,,,,.T]S  \
+OL,11, Flights.........P171T]S'RpppppS+  \
+OL,12, Ferrys..........P172T]SR~///' S  \
+OL,13, Trains..........P173T]SR5     S  \
+OL,14, Coaches.........P174T]SR5  }S  \
+OL,15,R,,,,,,,,,,,,,,,,,,,,T]SR5   jS  \
+OL,16, Hotels..........P175T]SRo|||?S  \
+OL,17, Villas..........P176T]StR#####Sx  \
+OL,18,R,,,,,,,,,,,,,,,,,,,,T]S  \
+OL,19, Trending Places.P177T]S+'  \
+OL,20, Tour Guides.....P178T]Q *?   o%   \
+OL,21, Price Tracker...P179 T]Q "#     #!   \ 
+OL,23,T]G Don't know where to go? - See P177  
+OL,24,AFLIGHTS   BHOTELS  CTOURGUIDES   DINDEX
+FL,171,175,177,100,8ff,8ff
+PN,19930
+SC,0030
+PS,8000
+CT,20,T
+RE,0
+OL,1,R`p0       `   R]Tp0p0p000p00  Z 8,,0   
+OL,2,Rj`0<lh,4<lj <lR]Tj u%5555u 5  Zjc{3{   
+OL,3,Rjp5uzjp5uzj0wsR]Tj 5575e%u0u0 Zjrzu   
+OL,4,R        ,.    R]T             Z !  !   
+OL,5,                                     1/4
+OL,6,MFlights: Mon 10th Apr 2025 (2nd Class) 
+OL,8,RZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,9, London Heathrow LHR -----] New York JFK
+OL,10,AVirgin Alantic:G20:00DBSTG- 23:20SESTG 
+OL,11, One Way -F#70GReturn -F#140            
+OL,12,B25KG/ppGBaggage Included,extraB- #35/pp
+OL,13,RZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,14,GLondon Heathrow LHR ---] Manchester MAN
+OL,15,DBritish Airways:G15:22DBSTG- 16:30DBST 
+OL,16, One Way -F#25GReturn -F#50             
+OL,17,B15KG/ppGBaggage Included,extraB- #25/pp
+OL,18,RZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,19, London Heathrow LHR ---] Perth (AU) PER
+OL,20,EQuantas:G(10)11:56DBSTG-(11)11:40QAWST 
+OL,21, One Way -F#425GReturn -F#700           
+OL,22,B35KG/ppGBaggage Included,extraB- #45/pp
+OL,23,T]GTo Book Flights, Visit Travel Agents 
+OL,24,AFERRYS   BHOTELS   CTOURGUIDES   DINDEX
+FL,172,175,178,100,8ff,8ff
+PN,19931
+SC,0031
+PS,8000
+CT,20,T
+RE,0
+OL,1,R`p0       `   R]Tp0p0p000p00  Z 8,,0   
+OL,2,Rj`0<lh,4<lj <lR]Tj u%5555u 5  Zjc{3{   
+OL,3,Rjp5uzjp5uzj0wsR]Tj 5575e%u0u0 Zjrzu   
+OL,4,R        ,.    R]T             Z !  !   
+OL,5,                                     2/4
+OL,6,MFlights: Mon 10th Apr 2025 (1st Class) 
+OL,8,RZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,9, London Heathrow LHR -----] New York JFK
+OL,10,AVirgin Alantic:G20:00DBSTG- 23:20SESTG 
+OL,11, One Way -F#140GReturn -F#360           
+OL,12,B25KG/ppGBaggage Included,extraB- #35/pp
+OL,13,RZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,14,GLondon Heathrow LHR ---] Manchester MAN
+OL,15,DBritish Airways:G15:22DBSTG- 16:30DBST 
+OL,16, One Way -F#90GReturn -F#194            
+OL,17,B15KG/ppGBaggage Included,extraB- #25/pp
+OL,18,RZ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,19, London Heathrow LHR ---] Perth (AU) PER
+OL,20,EQuantas:G(10)11:56DBSTG-(11)11:40QAWST 
+OL,21, One Way -F#937GReturn -F#1835          
+OL,22,B35KG/ppGBaggage Included,extraB- #45/pp
+OL,23,T]GTo Book Flights, Visit Travel Agents 
+OL,24,AFERRYS   BHOTELS   CTOURGUIDES   DINDEX
+FL,172,175,178,100,8ff,8ff
+PN,19932
+SC,0032
+PS,8000
+CT,20,T
+RE,0
+OL,1,R`p0       `   R]Tp0p0p000p00  Z 8,,0   
+OL,2,Rj`0<lh,4<lj <lR]Tj u%u555u 5  Zjc{3{   
+OL,3,Rjp5uzjp5uzj0wsR]Tj 5555e%u0u0 Zjrzu   
+OL,4,R        ,.    R]T             Z !  !   
+OL,5,                                     3/4
+OL,6,MFlights: Mon 10th Apr 2025 (2nd Class) 
+OL,8,RZ ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$
+OL,9, Leeds Bradford LBA -----] Barcolona BCN
+OL,10,CRyanair:G12:24DBSTG- 16:00SCESTG       
+OL,11, One Way -F#20GReturn -F#40             
+OL,12,B10KG/ppGBaggage Included,extraB- #27/pp
+OL,13,RZ ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$
+OL,14,GManchester MAN -------------] Dubai DXB
+OL,15,AEmriates:G09:50DBSTG- 20:00EGST        
+OL,16, One Way -F#432GReturn -F#884           
+OL,17,B25KG/ppGBaggage Included,extraB- #45/pp
+OL,18,RZ ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$
+OL,19, London Heathrow LHR --] Los Angeles LAX
+OL,20,AVirgin Alantic:G11:05DBSTG- 14:25QPDT  
+OL,21, One Way -F#635GReturn -F#1095          
+OL,22,B27KG/ppGBaggage Included,extraB- #36/pp
+OL,23,T]GTo Book Flights, Visit Travel Agents 
+OL,24,AFERRYS   BHOTELS   CTOURGUIDES   DINDEX
+FL,172,175,178,100,8ff,8ff
+PN,19933
+SC,0033
+PS,8000
+CT,20,T
+RE,0
+OL,1,R`p0       `   R]Tp0p0p000p00  Z 8,,0   
+OL,2,Rj`0<lh,4<lj <lR]Tj u%u555u 5  Zjc{3{   
+OL,3,Rjp5uzjp5uzj0wsR]Tj 5555e%u0u0 Zjrzu   
+OL,4,R        ,.    R]T             Z !  !   
+OL,5,                                     4/4
+OL,6,MFlights: Mon 10th Apr 2025 (1st Class) 
+OL,8,RZ ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$
+OL,9, Leeds Bradford LBA -----] Barcolona BCN
+OL,10,CRyanair:G12:24DBSTG- 16:00SCESTG       
+OL,11,A(No 1st Class Fare for this Flight)    
+OL,12,B10KG/ppGBaggage Included,extraB- #27/pp
+OL,13,RZ ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$
+OL,14,GManchester MAN -------------] Dubai DXB
+OL,15,AEmriates:G09:50DBSTG- 20:00EGST        
+OL,16, One Way -F#1332GReturn -F#3264         
+OL,17,B25KG/ppGBaggage Included,extraB- #45/pp
+OL,18,RZ ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$
+OL,19, London Heathrow LHR --] Los Angeles LAX
+OL,20,AVirgin Alantic:G11:05DBSTG- 14:25QPDT  
+OL,21, One Way -F#1235GReturn -F#2395         
+OL,22,B27KG/ppGBaggage Included,extraB- #36/pp
+OL,23,T]GTo Book Flights, Visit Travel Agents 
+OL,24,AFERRYS   BHOTELS   CTOURGUIDES   DINDEX
+FL,172,175,178,100,8ff,8ff
+PN,19934
+SC,0034
+PS,8000
+CT,20,T
+RE,0
+OL,1,T]W    HS 0 4 0IW               pp0     
+OL,2,T]W    HS "du& IW  `pp         ~4    
+OL,3,T]W    HS"#;?3#IW xu      `~}|0  
+OL,4,T]W    HS & 5"$IWj4    *%  
+OL,5,T]Q  }0        W                       
+OL,6,T]Q  *t      W        `ppx||~,d0   
+OL,7,T]Q   k}0    Wppp||~?%  
+OL,8,T]W    o7!    
+OL,9,T]W    "///'###   >4     
+OL,10,T]W     "#/////###! z0>4         #!     
+OL,11,T]W                 -%#!                
+OL,12,T]                                      
+OL,13,R]                                      
+OL,14,R]    `pp   `pp                      0  
+OL,15,W#######################################
+OL,17,Wppppppppppppppppppppppppppppppppppppppp
+OL,18,R]$         0                           
+OL,19,R]Tj?//%j5   *//%j?//%j5 j5*//%j?//%  
+OL,20,R]Tjup0 j5       j5`p0jupz5    jupp0  
+OL,21,R]Tj7#! j5       j5"k5j7#k5    "##k5  
+OL,22,R]Tj5   j}||4h||4j}|~5j5 j5    h||~5  
+OL,23,R]                                      
+OL,24,AFERRYS   BHOTELS   CTOURGUIDES   DINDEX
+FL,172,175,178,100,8ff,8ff
+DPN,19935
+SC,0035
+PS,8000
+CT,20,T
+RE,0
+OL,1,W|4 |4 x||t h| |4 ZQh|||| |4h| |||t x|||
+OL,2,W5 5j  5j 5 ZQ  5  5j 5j 5  
+OL,3,W"o~' j  5j 5Z Q  5  5j 1  
+OL,4,W j  j  5j 5 ZQ  5  5j 5j 5  
+OL,5,W */   +//'  +/'  ZQ  /%  "//! ///' +///
+OL,6,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,7,     The YouTube Channel Index Page     
+OL,8,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,9,  Recomended Channels..............P201 
+OL,10,  Trending Channels................P206 
+OL,11,  YouTube Music....................P211 
+OL,12,  YouTube Kids.....................P216 
+OL,13,  Help-Centre......................P295 
+OL,14,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,15,CMYouTube Services:(Landline Required)  
+OL,17,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,18,  MyYouTube........................P250 
+OL,19,HAPremiumIGSubscription Channels...P2** 
+OL,20,  Subscription Feeds...............P2** 
+OL,21,  Channel History..................P2** 
+OL,22,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,23,T]GNEED HELP GETTING ONLINE - SEE P880  
+OL,24,AG-GAMES   BDEVPAGES   CAMAZON    DINDEX
+FL,160,800,700,100,8ff,8ff
+PN,19936
+SC,0036
+PS,8000
+CT,20,T
+RE,0
+OL,1,W|4 |4 x||t h| |4 ZQh|||| |4h| |||t x|||
+OL,2,W5 5j  5j 5 ZQ  5  5j 5j 5  
+OL,3,W"o~' j  5j 5Z Q  5  5j 1  
+OL,4,W j  j  5j 5 ZQ  5  5j 5j 5  
+OL,5,W */   +//'  +/'  ZQ  /%  "//! ///' +///
+OL,6,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,7,          Reccomened Channels       1/3 
+OL,8,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,9,  Channel 22 - Railway Secrets          
+OL,10, ANewest Video -CThe West Yorkshire     
+OL,11,                CMetro is no-more       
+OL,12,QZppppppppppppppppppppppppppppppppppppp 
+OL,13,QZ##################################### 
+OL,14,  Channel 26 - The TfL Three            
+OL,15,ZANewest Video -CPilning: The Station   
+OL,16,                Cthat refuses to die    
+OL,17,QZppppppppppppppppppppppppppppppppppppp 
+OL,18,QZ##################################### 
+OL,19,  Channel 27 - JenOnTheMovee            
+OL,20,ZANewest Video -CCan the Oxted Line make
+OL,21,                Cme love London again?  
+OL,22,QZppppppppppppppppppppppppppppppppppppp                                      
+OL,23,QZ#####################################                                     
+OL,24,AG-GAMES   BDEVPAGES   CAMAZON    DINDEX
+FL,200,101,101,100,8ff,8ff
+PN,19937
+SC,0037
+PS,8000
+CT,20,T
+RE,0
+OL,1,W|4 |4 x||t h| |4 ZQh|||| |4h| |||t x|||
+OL,2,W5 5j  5j 5 ZQ  5  5j 5j 5  
+OL,3,W"o~' j  5j 5Z Q  5  5j 1  
+OL,4,W j  j  5j 5 ZQ  5  5j 5j 5  
+OL,5,W */   +//'  +/'  ZQ  /%  "//! ///' +///
+OL,6,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,7,          Reccomened Channels       2/3 
+OL,8,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,9,  Channel 31 - Stuff Made Here
+OL,10, ANewest Video -CBaking Brownies from
+OL,11,                Cthe inside out!       
+OL,12,QZppppppppppppppppppppppppppppppppppppp 
+OL,13,QZ##################################### 
+OL,14,  Channel 32 - Colin Furze 
+OL,15,ZANewest Video -CDigging a SECRET Garage
+OL,16,                CPART 6 - The Cover up
+OL,17,QZppppppppppppppppppppppppppppppppppppp 
+OL,18,QZ##################################### 
+OL,19,  Channel 29 - Nick Badley
+OL,20,ZANewest Video -CThe UK's Longest Train
+OL,21,            Cjourney.. but even longer?
+OL,22,QZppppppppppppppppppppppppppppppppppppp                                     
+OL,23,QZ#####################################                                      
+OL,24,AG-GAMES   BDEVPAGES   CAMAZON    DINDEX
+FL,200,101,101,100,8ff,8ff
+PN,19938
+SC,0038
+PS,8000
+CT,20,T
+RE,0
+OL,1,                           W`|0         
+OL,2, Connecting to YouTube...  Wo?         
+OL,3, Dialing                   W           
+OL,4,H+442022034337...I         W           
+OL,5,W                   j5 
+OL,6,W                  j5
+OL,7,W                  j5 , (,,$ ,,,(,,Wj5
+OL,8,W                  j5V,,,,,,,,,,,,,Wj5
+OL,9,  XLoaded Page    Wj5QsssHbdI#sssssWj5
+OL,10,  XPress  P251    Wj5R,,,H(990I,,,,Wj5
+OL,11,W                  j5SsssHbfff$IsssWj5
+OL,12,W                  j5T,,,H(99I ,,,,Wj5
+OL,13,ZQppppppppppppppYW j5U,,,Hb&IpsssssWj5
+OL,14,ZV,,,,,,,,,,,,,,YW j5V,,,,,,,,,,,,,Wj5
+OL,15,ZU##############YW j5Q ,,R,,S,,T,, Wj5
+OL,16,W                  j5
+OL,17,W                   j5 
+OL,18,W                ZQ                     
+OL,19,W5 5`~//}0j 5ZQ*/?/ 5j ?o} ~?// 
+OL,20,Wou`%j  5j 5ZQ  5  5j uz? up  
+OL,21,W k! j  5j 5ZQ  5  5j ?ot ?/  
+OL,22,W j  *pp%*p%ZQ  5  ouz? uz upp 
+OL,23,W "#   "##!  "#! ZQ  #!   ##  ###! "### 
+OL,24,AYTOFFLINE    BHELP    CRELOAD    DINDEX
+FL,200,295,8ff,100,8ff,8ff
+PN,19939
+SC,0039
+PS,8000
+CT,20,T
+RE,0
+OL,1,W|4 |4 x||t h| |4Z Qh|||| |4h| |||t x|||
+OL,2,W5 5j  5j 5ZQ   5  5j 5j 5  
+OL,3,W"o~' j  5j 5ZQ   5  5j 1  
+OL,4,W j  j  5j 5ZQ   5  5j 5j 5  
+OL,5,W */   +//'  +/' ZQ   /%  "//! ///' +///
+OL,6,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,7,EMYouTube Services:H(Online)I           
+OL,9,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,10,  Account..........................P291 
+OL,11,HAPremiumIGSubscription Channels...P260 
+OL,12,  My Subscription Feeds............P265 
+OL,13,  Channel History..................P290 
+OL,14,  View Offline Youtube Index.......P200 
+OL,15,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,16,MCChannel Management:(Requires Prestel) 
+OL,18,  Create a Channel Post............P281 
+OL,19,  View/Manage Channel Posts........P282 
+OL,20,  View Channel Analytics...........P284 
+OL,21,  Channel FAQs.....................P285 
+OL,22,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,23,T]GNEW Premium Vid Available - See P260 
+OL,24,AYTOFFLINE  BTRENDING   CYTMUSIC  DINDEX
+FL,200,206,211,100,8ff,8ff
+PN,19940
+SC,0040
+PS,8000
+CT,20,T
+RE,0
+OL,1,W|4 |4 x||t h| |4 ZQh|||| |4h| |||t x|||
+OL,2,W5 5j  5j 5 ZQ  5  5j 5j 5  
+OL,3,W"o~' j  5j 5Z Q  5  5j 1  
+OL,4,W j  j  5j 5 ZQ  5  5j 5j 5  
+OL,5,W */   +//'  +/'  ZQ  /%  "//! ///' +///
+OL,6,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,7,  Railway Secrets Channel Analytics 1/2 
+OL,8,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,9, CThe West Yorkshire METRO is no more   
+OL,11,  Published 12 May 2025 @ 06:15pm       
+OL,13, AViews:B3.041        CViews over time  
+OL,14,                  G3KQ               `p0
+OL,15, AWatch time:B187    Q        `p8,,&#!  
+OL,16,                  G2KQ   `8,&#!         
+OL,17, ASubscribers:B+26   Q  8!              
+OL,18,                  G1KQ :                
+OL,19, AVideo Retention    Qh!                
+OL,20, B3:41 -C(28.2%)  G0KQj                 
+OL,21,                    T|||||||||||||||||||
+OL,22,                    G 0  12  24  48  72 
+OL,24,AG-GAMES   BDEVPAGES   CAMAZON    DINDEX
+FL,200,101,101,100,8ff,8ff
+PN,19941
+SC,0041
+PS,8000
+CT,20,T
+RE,0
+OL,1,W|4 |4 x||t h| |4 ZQh|||| |4h| |||t x|||
+OL,2,W5 5j  5j 5 ZQ  5  5j 5j 5  
+OL,3,W"o~' j  5j 5Z Q  5  5j 1  
+OL,4,W j  j  5j 5 ZQ  5  5j 5j 5  
+OL,5,W */   +//'  +/'  ZQ  /%  "//! ///' +///
+OL,6,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,7,  Railway Secrets Channel Analytics 2/2 
+OL,8,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,9, CLondon Underground trains were going  
+OL,10, Cto serve this station:A-Z of Yorkshire
+OL,11,  Published 03 September 2024 @ 05:00pm 
+OL,13, AViews:B996          CViews over time  
+OL,14,                  G1KQ                  
+OL,15, AWatch time:B50.6   Q   p,&############
+OL,16,                 G750Q `&               
+OL,17, ASubscribers:B+14   Q 6                
+OL,18,                 G500Qj                 
+OL,19, AVideo Retention    Qj                 
+OL,20, B3:03 -C(21.2%)  G0KQj                 
+OL,21,                    T|||||||||||||||||||
+OL,22,                    G 0  1   7   28  100
+OL,24,AG-GAMES   BDEVPAGES   CAMAZON    DINDEX
+FL,200,101,101,100,8ff,8ff
+PN,19942
+SC,0042
+PS,8000
+CT,20,T
+RE,0
+OL,1,Q]Wp0p0p0p0p0p0p00 W0 p0p0p0p0p000T`p0  
+OL,2,Q]W55u5j j 5555u55 W5 55j j u u%55T  
+OL,3,Q]W5555j z0u55555u0Wu0u5j j u055j To?  
+OL,4,Q]                               "     !
+OL,6,  ALotteryGResults................P556  
+OL,7,  CEurpmillionsGResults...........P557  
+OL,8,  FSet for LifeGResults...........P558  
+OL,9,G EThunderballA(Draw In-Progress)GP5**  
+OL,10,  ALotto-HotpicksGResults.........P560 
+OL,11,  CEuromillions HotpicksGResults..P561  
+OL,13,  BInstant WinGGames..............P562 
+OL,14,   Buy a Ticket...................P571  
+OL,15,   Past Results...................P581  
+OL,16,   National Lotto FAQs............P550  
+OL,17,   National Lotto Draw Timings....P553  
+OL,19, GMLatest Lotto Updates:                
+OL,21,  EThunderball Draw In-Progress         
+OL,22,  ECheck back at 9pm for Results        
+OL,24,ALOTTO BINSTANTWINS SEUROMILLIONS TINDEX
+FL,556,561,557,100,8ff,8ff
+PN,19943
+SC,0043
+PS,8000
+CT,20,T
+RE,0
+OL,1,Q]Wp0p0p0p0p0p0p00 W0 p0p0p0p0p000T`p0  
+OL,2,Q]W55u5j j 5555u55 W5 55j j u u%55T  
+OL,3,Q]W5555j z0u55555u0Wu0u5j j u055j To?  
+OL,4,Q]                               "     !
+OL,6,  ALotteryGResults................P556  
+OL,7,  CEurpmillionsGResults...........P557  
+OL,8,  FSet for LifeGResults...........P558  
+OL,9,G EThunderballA(Draw In-Progress)GP5**  
+OL,10,  ALotto-HotpicksGResults.........P560 
+OL,11,  CEuromillions HotpicksGResults..P561  
+OL,13,  BInstant WinGGames..............P562 
+OL,14,   Buy a Ticket...................P571  
+OL,15,   Past Results...................P581  
+OL,16,   National Lotto FAQs............P550  
+OL,17,   National Lotto Draw Timings....P553  
+OL,19, GMLatest Lotto Updates:                
+OL,21,  AIts a Lotto Must Be Won of 4 Mill
+OL,22,  AGet your ticket today - See P571
+OL,24,ALOTTO BINSTANTWINS SEUROMILLIONS TINDEX
+FL,556,561,557,100,8ff,8ff
+PN,19944
+SC,0044
+PS,8000
+CT,20,T
+RE,0
+OL,1,Q]W0 p0p0p0p0p000`p`p`p``` `p`p         
+OL,2,Q]W5 55j j u0u%u5j:j0jpjjj  5jp         
+OL,3,Q]Wu0u5j j u055j jjjp`zjzjp 5`z         
+OL,4,Q]                     "!        "     !
+OL,5,B                                    1/2
+OL,6,B  Draw - _46355456                     
+OL,7,B  Draw Date - Wed 13th November 2024   
+OL,9,  Th4h4h4h4h4h4 
+OL,10,  TjG11T5jG12T5jG28T5jG29T5jG41T5jG54T5 
+OL,11,  T*%*%*%*%*%*% 
+OL,13,  Qh4B   Jackpot - #2,000,000       
+OL,14,  QjG17Q5                               
+OL,15,  Q*%B   Jackpot Not Won            
+OL,17,BM Prize Breakdown:                     
+OL,20,B  Match 6:  0 MATCHES WON              
+OL,21,B           #0 PER WINNER               
+OL,22,B           #0 PRIZE FUND               
+OL,24,ALOTTOHOME BINSTANTWIN CEUROMILLS DINDEX
+FL,555,561,557,100,8ff,8ff
+PN,19945
+SC,0045
+PS,8000
+CT,20,T
+RE,0
+OL,1,Q]W0 p0p0p0p0p000`p`p`p``` `p`p         
+OL,2,Q]W5 55j j u0u%u5j:j0jpjjj  5jp         
+OL,3,Q]Wu0u5j j u055j jjjp`zjzjp 5`z         
+OL,4,Q]                     "!        "     !
+OL,5,B  Match 5 + BONUS: 0 MATCHES WON    2/2
+OL,6,B                  #0 PER WINNER        
+OL,7,B                  #0 PRIZE FUND        
+OL,9,B  Match 5: 43 MATCHES WON              
+OL,10,B          #1,750 PER WINNER            
+OL,11,B          #75,250 PRIZE FUND           
+OL,13,B  Match 4: 2,528 MATCHES WON           
+OL,14,B          #140 PER WINNER              
+OL,15,B          #353,920 PRIZE FUND          
+OL,17,B  Match 3: 65,946 MATCHES WON          
+OL,18,B          #30 PER WINNER               
+OL,19,B          #1,978,380 PRIZE FUND        
+OL,21,B  Match 2: 651,067 MATCHES WON         
+OL,22,          AFREE LUCKY DIPBPER WINNER    
+OL,23,B          #1,302,134 PRIZE FUND        
+OL,24,ALOTTOHOME BINSTANTWIN CEUROMILLS DINDEX
+FL,555,561,557,100,8ff,8ff
+PN,19946
+SC,0046
+PS,8000
+CT,20,T
+OL,1,T]V|   | ||| ||t ||| ||| | | |||        
+OL,2,T]V               k|7           
+OL,3,T]V      1           j#47!55 
+OL,4,T]Vopp?            z/u   j 57 55 
+OL,5,T]V"/#/! /// //'  /  /// / /  / *,!-$*  
+OL,6,T#######################################
+OL,7, MThe Archive of WEBTEXTs Development   
+OL,8, V                         8            
+OL,9,T|||||||||||||||||||||||||||||||||||||||
+OL,11, Logo Developments    Page Developments 
+OL,13, Google.......P803    Index......P801/2 
+OL,14, Youtube......P804    Youtube....P805-8 
+OL,15, More.........P810    GoogleServPgsP811 
+OL,16, Googleserpge2P813    NatLottoDevs.P812
+OL,17,
+OL,18,   ENGERNEERING   
+OL,19, SamplePGS....P899 
+OL,23,T]GTo Return to Live Service Press Blue 
+OL,24,AYouTube BTwitter(X) CBBC-NEWS  DINDEX  
+FL,200,500,400,100,8ff,100
+PN,19947
+SC,0047
+PS,8000
+CT,20,T
+OL,0,XXXXXXXX%%#AWEBTextC%%a %d %%bG%H:%M:%S
+OL,1,TppppQ    S    T    Rp Q   Wppp  p  p p 
+OL,2,T###QppppSppppTppppR QpppW## p/p op? 
+OL,3,T ppQ##S##T##R Q#W|    "! 
+OL,4,T #Q  S  T  R Q//W   / h4 
+OL,5,T||Q||S||T||R|Q||W       
+OL,6,               Tppp                    
+OL,7,               T####                    
+OL,8,T///////////////////////////////////////
+OL,9, ALATEST NEWS:                          
+OL,10,MCINTERNET NOW ON TELETEXT - SEE P199  
+OL,12,T|,,,,,,,,,,,,,,,,l<,,,,,,,,,,,,,,,,,,,|
+OL,13,TGG-FAX ServicesTj5GExternal ServicesT
+OL,14,T/,,,,,,,,,,,,,,,,.-,,,,,,,,,,,,,,,,,,,/
+OL,15, G-Travel.....P110  BBC News.......P400 
+OL,16, G-Events.....P120  Wikipedia......P450 
+OL,17, G-Talks......P130  Twitter-(X)....P500 
+OL,18, G-News.......P140  Amazon.........P700 
+OL,19, G-Weather....P150  NHS-111........P900 
+OL,20, G-Games......P160  NationalLotto..P555 
+OL,21, YouTube......P200  TransitStatus..P600 
+OL,22, I Feel Lucky.P180  Spotify........P800 
+OL,23,
+OL,24,ADEVHOME   BXXXXPAGE  CNEXTPAGE   DINDEX
+FL,800,8ff,802,100,8ff,8ff
+PN,19948
+SC,0048
+PS,8000
+CT,20,T
+RE,0
+OL,1,T]V|   | ||| ||t ||| ||| | | |||  `,<d  
+OL,2,T]V               k|7    ho,=nm 
+OL,3,T]V      1            jn,=nn 
+OL,4,T]Vopp?            z/u    *~,=n> 
+OL,5,T]V"/#/! /// //'  /  /// / /  /   ",-&  
+OL,7,     V]DWEBTEXT  \  G%%a %d %%bC%H:%M:%S
+OL,9, ALATEST NEWS:                          
+OL,10,MCINTERNET NOW ON TELETEXT - SEE P199   
+OL,12,T|,,,,,,,,,,,,,,,,l<,,,,,,,,,,,,,,,,,,,|
+OL,13,TGG-FAX ServicesTj5GExternal ServicesT
+OL,14,T/,,,,,,,,,,,,,,,,.-,,,,,,,,,,,,,,,,,,,/
+OL,15, G-Travel.....P110  BBC News.......P400 
+OL,16, G-Events.....P120  Wikipedia......P450 
+OL,17, G-Talks......P130  Twitter-(X)....P500 
+OL,18, G-News.......P140  Amazon.........P700 
+OL,19, G-Weather....P150  NHS-111........P900 
+OL,20, G-Games......P160  NationalLotto..P555 
+OL,21, YouTube......P200  TransitStatus..P600 
+OL,22, I Feel Lucky.P180  Spotify........P800 
+OL,24,ADEVHOME   BPREVPAGE  CNEXTPAGE   DINDEX
+FL,800,801,803,100,8ff,8ff
+DE,GoogleLogodev
+DS,inserter
+SP,C:\Users\winga\Downloads\P101.tti
+PN,19949
+SC,0049
+PS,8000
+CT,20,T
+RE,0,
+OL,0,XXXXXXXX%%#AWEBTextC%%a %d %%bG%H:%M:%S
+OL,1, ]T|||||Q|||||S|||||T|||||R|    Q|||||  
+OL,2, ]T####Q###S###T####R    Q####  
+OL,3, ]T h||Q   S   T h||R    Q||4   
+OL,4, ]T "#Q   S   T "#R    Q      
+OL,5, ]TQSTRQ  
+OL,6,W||||||||||||||||||||||||||||||
+OL,7,Q]                                      
+OL,8,  T|||||Q|||||S|||||T|||||R|    Q|||||  
+OL,9,  T####Q###S###T####R    Q####  
+OL,10,  T h||Q   S   T h||R    Q||4   
+OL,11,  T "#Q   S   T "#R    Q      
+OL,12,  TQSTRQ  
+OL,13,  W##### ##### ##### ##### ##### #####  
+OL,14,Q]                                      
+OL,15,TppppQ    S    T    Rp Q   Wppp  p  p p 
+OL,16,T###QppppSppppTppppR QpppW## p/p op? 
+OL,17,T ppQ##S##T##R Q#W|    "! 
+OL,18,T #Q !S  T  R Q//W   / h4 
+OL,19,T||Q||S||T||R|Q||W       
+OL,20,               Tppp                    
+OL,21,               T####                    
+OL,22,Q]                                      
+OL,23,Q]   
+OL,24,ADEVHOME   BPREVPAGE  CNEXTPAGE   DINDEX
+FL,800,802,804,100,8ff,8ff
+PN,19950
+SC,0050
+PS,8000
+CT,20,T
+RE,0,
+OL,0,XXXXXXXX%%#AWEBTextC%%a %d %%bG%H:%M:%S
+OL,1,ZT||||||||||||||||||||||||||||||||||||  
+OL,2,ZT                                ZT  
+OL,3,ZTYW| | ||| | |ZQ||| | | ||t ||| |ZT  
+OL,4,ZTYW     ZQ          ZT  
+OL,5,ZTYW//    ZQ     |7   ZT  
+OL,6,ZTYW      ZQ          #ZT  
+OL,7,ZTYW /  /// ///ZQ /  /// //' /// /ZT  
+OL,8,ZT                                    
+OL,9,ZT////////////////////////////////////  
+OL,10,T//////////////////////////////////// 
+OL,11,TZW| | ||| | |ZQ||| | | ||t ||| | |YT 
+OL,12,TZW     ZQ           YT 
+OL,13,TZW//    ZQ     |7    YT 
+OL,14,TZW      ZQ          # #YT 
+OL,15,TZW /  /// ///ZQ /  /// //' /// / /YT 
+OL,16,T|||||||||||||||||||||||||||||||||||| 
+OL,18,W|4 |4 x||t h| |4ZQh|||| |4h| |||t x||| 
+OL,19,W5 5j  5j 5ZQ  5  5j 5j 5   
+OL,20,W"o~' j  5j 5ZQ  5  5j 1   
+OL,21,W j  j  5j 5ZQ  5  5j 5j 5   
+OL,22,W */   +//'  +/' ZQ  /%  "//! ///' +/// 
+OL,24,ADEVHOME   BPREVPAGE  CNEXTPAGE   DINDEX
+FL,800,803,805,100,8ff,8ff
+PN,19951
+SC,0051
+PS,8000
+CT,20,T
+RE,0
+OL,2,W | | x|t | | Q||| | | ||p |||W   |0   
+OL,3,W       Q##   # ##W   t  
+OL,4,W o|?     Q     |! ||W   } 
+OL,5,W        Q      }   W#   ?! 
+OL,6,W    o|? o|? Q   o|? ? W   '   
+OL,8,Q 
+OL,10,MHNEWEST VIDEOS:                        
+OL,11, H                                      
+OL,13, LYou can only catch this C2C    P150   
+OL,14, Lservice at weekends...                
+OL,15, A@JenOnTheMove                         
+OL,17, GThe History of Londons         P465   
+OL,18,  Airport Expresses                     
+OL,19, A@TheTfLThree                          
+OL,21,Q GPageH1 of 5QI 
+OL,23,
+OL,24,ADEVHOME   BPREVPAGE  CNEXTPAGE   DINDEX
+FL,800,804,806,100,8ff,8ff
+PN,19952
+SC,0052
+PS,8000
+CT,20,T
+RE,0,
+OL,0,XXXXXXXX%%#AWEBTextC%%a %d %%bG%H:%M:%S
+OL,1,W|4 |4 x||t h| |4ZQh|||| |4h| |||t x||| 
+OL,2,W5 5j  5j 5ZQ  5  5j 5j 5   
+OL,3,W"o~' j  5j 5ZQ  5  5j 1   
+OL,4,W j  j  5j 5ZQ  5  5j 5j 5   
+OL,5,W */   +//'  +/' ZQ  /%  "//! ///' +/// 
+OL,6,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  
+OL,7,   The YouTube Channel Index Magazine   
+OL,8,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  
+OL,9,  Recomended Channels.............P201  
+OL,10,  Trending Channels...............P206  
+OL,11,  YouTube Music...................P211  
+OL,12,  YouTube Kids....................P216  
+OL,13,  Help-Centre.....................P295  
+OL,14,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  
+OL,15,CMYouTube Services:(Landline Required)  
+OL,17,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  
+OL,18,  MyYouTube.......................P250  
+OL,19,HAPremiumIGSubscription Channels..P2**  
+OL,20,  Subscription Feeds..............P2**  
+OL,21,  Channel History.................P2**  
+OL,22,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  
+OL,23,
+OL,24,ADEVHOME   BPREVPAGE  CNEXTPAGE   DINDEX
+FL,800,805,807,100,8ff,8ff
+PN,19953
+SC,0053
+PS,8000
+CT,20,T
+RE,0,
+OL,0,XXXXXXXX%%#AWEBTextC%%a %d %%bG%H:%M:%S
+OL,1,                           W`|0         
+OL,2, Connecting to YouTube...  Wo?         
+OL,3, Dialing                   W           
+OL,4,H+442022034337...I         W           
+OL,5,W                   j5 
+OL,6,W                  j5
+OL,7,W                  j5 , (,,$ ,,,(,,Wj5
+OL,8,W                  j5V,,,,,,,,,,,,,Wj5
+OL,9,   Y  Loaded  G   Wj5QsssHbdI#sssssWj5
+OL,10,   YPress P251G   Wj5R,,,H(990I,,,,Wj5
+OL,11,W                  j5SsssHbfff$IsssWj5
+OL,12,W                  j5T,,,H(99I ,,,,Wj5
+OL,13,ZQppppppppppppppYW j5U,,,Hb&IpsssssWj5
+OL,14,ZV,,,,,,,,,,,,,,YW j5V,,,,,,,,,,,,,Wj5
+OL,15,ZU##############YW j5Q ,,R,,S,,T,, Wj5
+OL,16,W                  j5
+OL,17,W                   j5 
+OL,19,W|4 |4 x||t h| |4ZQh|||| |4h| |||t x||| 
+OL,20,W5 5j  5j 5ZQ  5  5j 5j 5   
+OL,21,W"o~' j  5j 5ZQ  5  5j 1   
+OL,22,W j  j  5j 5ZQ  5  5j 5j 5   
+OL,23,W */   +//'  +/' ZQ  /%  "//! ///' +/// 
+OL,24,ADEVHOME   BPREVPAGE  CNEXTPAGE   DINDEX
+FL,800,806,808,100,8ff,8ff
+PN,19954
+SC,0054
+PS,8000
+CT,20,T
+RE,0,
+OL,0,XXXXXXXX%%#AWEBTextC%%a %d %%bG%H:%M:%S
+OL,1,W|4 |4 x||t h| |4ZQh|||| |4h| |||t x||| 
+OL,2,W5 5j  5j 5ZQ  5  5j 5j 5   
+OL,3,W"o~' j  5j 5ZQ  5  5j 1   
+OL,4,W j  j  5j 5ZQ  5  5j 5j 5   
+OL,5,W */   +//'  +/' ZQ  /%  "//! ///' +/// 
+OL,6,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  
+OL,7,CMYouTube Services:H(Connected)I        
+OL,9,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  
+OL,10,  Account.........................P291  
+OL,11,HAPremiumIGSubscription Channels..P260  
+OL,12,  My Subscription Feeds...........P265  
+OL,13,  Channel History.................P290  
+OL,14,  View Offline Youtube Index......P200  
+OL,15,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  
+OL,16,MCChannel Management:Requires Prestel   
+OL,18,  Create a Channel Post...........P281  
+OL,19,  View/Manage Channel Posts.......P282  
+OL,20,  View Channel Analytics..........P284  
+OL,21,ZQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,  
+OL,22,    FOR HELP USING YOUTUBE SEE P295     
+OL,23, 
+OL,24,ADEVHOME   BPREVPAGE  CNEXTPAGE   DINDEX
+FL,800,807,809,100,8ff,8ff
+PN,19955
+SC,0055
+PS,8000
+CT,20,T
+RE,0
+OL,1, Qppp ppp ppp ppp 0  ppp ` ``p`p`p```p`p
+OL,2, Q5`p 5 j 5 j 5`p 5  u0  j jj0jj 5jzj0j:
+OL,3, Qupz upz upz upz up upp *::jpjk 5jjjpjj
+OL,4,                  V                     
+OL,5, Q 5 57!75k!557!75 7# 7k 7k 7# 5  7#    
+OL,6, Q 5457 =5j 757 74 5k 5j 5j 5k 5  7!    
+OL,7, Q "" #!!!" !!#!!! ## ## ## ## ## ##    
+OL,8, V                                      
+OL,9, Q 505w3!vs4#7!up5w3!ws$                
+OL,10, Q ))!-,$% % % % %-,$% %                
+OL,11,Qh,,          4                         
+OL,12,Qj l 7k 7k 7k 5 w{   505w3h#4k!uzjs!w;  
+OL,13,Q*,. -. -. -n - -,   ))!-,*#%* %**,$%*  
+OL,14,Q          ##                           
+OL,15, Q<,, <,l <,l <,, 4  <,, h hh,hl(<hhh,hl
+OL,16, Q5(l 5 j 5 j 5(l 5  =$  j`jj$jz 5jnj$jf
+OL,17, Q-,. -,. -,. -,. -, -,, "&&*,** %***,**
+OL,18,               T]W               S  `   
+OL,19,Wj#!pp`p0ppj ppT]W5 57!55k!557!75S )z8! 
+OL,20,Wj"55jj 55jj =.T]W5457 =5j 757 74S"cog# 
+OL,21,W"#!##"#!s{"!##T]W"" #!!!" !!#!!!S !* ! 
+OL,23,T]G             Page 1 of 3             
+OL,24,ADEVHOME   BPREVPAGE  CNEXTPAGE   DINDEX
+FL,800,808,810,100,8ff,8ff
+PN,19956
+SC,0056
+PS,8000
+CT,20,T
+RE,0
+OL,2,R`p0       `   R]Tp0p0p000p00  h,<d     
+OL,3,Rj`0<lh,4<lj <lR]Tj u%5555u 5 h~|}|}t   
+OL,4,Rjp5uzjp5uzj0wsR]Tj 5575e%u0u0"o?//'   
+OL,5,R        ,.    R]T                      
+OL,7,W`p0       `    ]Qp000p00``p`p  |||||4  
+OL,8,Wj`0<lh,4<lj <l ]Qu 55u ?z 5jp  5x ,45  
+OL,9,Wjp5uzjp5uzj0ws ]Qu0e%u05k 5`z  5j w15  
+OL,10,W        ,.     ]Q              -,,,,%  
+OL,12,Q`p0       `    ]W0``p` ``p h,,,,,,,,,,4
+OL,13,Qj`0<lh,4<lj <l ]W?zj0j jjp jGThe NewsW5
+OL,14,Qjp5uzjp5uzj0ws ]W5kjp*::`z jGfrom SKYW5
+OL,15,Q        ,.     ]W          *,,,,,,,,,,%
+OL,18,T`p0       `    ]S0 0p0p0p000p0p0 ` 4`  
+OL,19,Tj`0<lh,4<lj <l ]S5 5u 55j u5u u% py}q0 
+OL,20,Tjp5uzjp5uzj0ws ]See%u075j 55u055 `&7d  
+OL,21,T        ,.     ]S                  !   
+OL,23,T]G             Page 2 of 3             
+OL,24,ADEVHOME   BPREVPAGE  CNEXTPAGE   DINDEX
+FL,800,808,810,100,8ff,8ff
+PN,19957
+SC,0057
+PS,8000
+CT,20,T
+RE,0
+OL,2,R`p0       `   R]Tp0p0p000p00  Z 8,,0   
+OL,3,Rj`0<lh,4<lj <lR]Tj u%5555u 5  Zjc{3{   
+OL,4,Rjp5uzjp5uzj0wsR]Tj 5575e%u0u0 Zjrzu   
+OL,5,R        ,.    R]T             Z !  !   
+OL,7,W`p0       `    ]Qp000p00``p`pZ<,,,<,,,4
+OL,8,Wj`0<lh,4<lj <l ]Qu 55u ?z 5jpZ55755jj 5
+OL,9,Wjp5uzjp5uzj0ws ]Qu0e%u05k 5`zZ5%-%5** 5
+OL,10,W        ,.     ]Q            Z########!
+OL,11,Tppppppppppppppppppppppppppppppppppppppp
+OL,12,T#######################################
+OL,13,Q`p0       `   Q]W0``p` ``p Z||||4h|||| 
+OL,14,Qj`0<lh,4<lj <lQ]W?zj0j jjp Z}|(,5jh||j 
+OL,15,Qjp5uzjp5uzj0wsQ]W5kjp*8:`z Z?/bs5j*//j 
+OL,16,Q        ,.    Q]W          Z####!"#### 
+OL,17,V                                       
+OL,18,T`p0       `   T]S0 0p0p0p000p0p0Z 0h 0 
+OL,19,Tj`0<lh,4<lj <lT]S5 5u 55j u5u u%Z`r~vp 
+OL,20,Tjp5uzjp5uzj0wsT]See%u075j 55u055Z 8k)0 
+OL,21,T        ,.    T]W               Z  "   
+OL,23,T]G             Page 3 of 3             
+OL,24,ADEVHOME   BPREVPAGE  CNEXTPAGE   DINDEX
+FL,800,808,810,100,8ff,8ff
+PN,19958
+SC,0058
+PS,8000
+CT,20,T
+RE,0
+OL,1,R`p0       `   R]Tp0p0p000p00  Z 8,,0   
+OL,2,Rj`0<lh,4<lj <lR]Tj u%5555u 5  Zjc{3{   
+OL,3,Rjp5uzjp5uzj0wsR]Tj 5575e%u0u0 Zjrzu   
+OL,4,R        ,.    R]T             Z !  !   
+OL,7, Flights.........P171                   
+OL,8, Ferrys..........P172                   
+OL,9, Trains..........P173                   
+OL,10, Coaches.........P174                   
+OL,12, Hotels..........P175                   
+OL,13, Villas..........P176                   
+OL,15, Trending Places.P177                   
+OL,16, Tour Guides.....P178                   
+OL,17, Price Tracker...P179                   
+OL,19, Todays Destination                     
+OL,20, is:MAMSTERDAM                          
+OL,21, I                                      
+OL,23,T]G                                     
+OL,24,QDEVHOME   BPREVPAGE  CNEXTPAGE   DINDEX
+FL,800,809,811,100,8ff,8ff
+PN,19959
+SC,0059
+PS,8000
+CT,20,T
+RE,0
+OL,1,R`p0       `   R]Tp0p0p000p00  Z 8,,0   
+OL,2,Rj`0<lh,4<lj <lR]Tj u%5555u 5  Zjc{3{   
+OL,3,Rjp5uzjp5uzj0wsR]Tj 5575e%u0u0 Zjrzu   
+OL,4,R        ,.    R]T             Z !  !   
+OL,6,                     W      `ppppp      
+OL,7, Flights.........P171W      ?///5     
+OL,8, Ferrys..........P172W      5   5     
+OL,9, Trains..........P173W   x||}|||}|t   
+OL,10, Coaches.........P174W  j5  
+OL,11,                     W  j////////////5  
+OL,12, Hotels..........P175W  j  `~'   5  
+OL,13, Villas..........P176W  j  j!       5  
+OL,14,                     W  j  j  h||4  5  
+OL,15, Trending Places.P177W  j  j  "#5  5  
+OL,16, Tour Guides.....P178W  j  jtppx5  5  
+OL,17, Price Tracker...P179W  j   +////'   5  
+OL,18,                     W  j5  
+OL,19, Todays Destination  W  "o?!  
+OL,20, is:MAMSTERDAM     LsW    o%   o?    
+OL,21, I                  TWWW                
+OL,23,T]G                                     
+OL,24,QDEVHOME   BPREVPAGE  CNEXTPAGE   DINDEX
+FL,800,809,811,100,8ff,8ff
+PN,19960
+SC,0060
+PS,8000
+CT,20,T
+RE,0
+OL,2,W                                       
+OL,3,W 0h 0   (058               x"p     0 ~ 
+OL,4,W`r~vp   ,ng~t0    xt0    j5 #    (x}sm
+OL,5,W 8k)0   (!o?   *?    "o|$    *%
+OL,6,W  "                                    
+OL,7,W                                       
+OL,8,W                                       
+OL,9,W                                       
+OL,10,W                                       
+OL,11,W         `~}p     xt0    (058         
+OL,12,W         'x5   j    ,n,$        
+OL,13,W         "y&#     +++!    (!5)         
+OL,14,W         "!       """                  
+OL,15,W                                       
+OL,16,W                           8=0     5   
+OL,17,W  p        `      `|0       5     )=!  
+OL,18,W`>?=t    ,,,!    h}                 
+OL,19,W*w b?    ss#s$   "///'    (058   (058  
+OL,20,W &&&      (!      sss    (,./,, (,./,, 
+OL,21,W"""                                    
+OL,24,QDEVHOME   BPREVPAGE  CNEXTPAGE   DINDEX
+FL,800,810,812,100,8ff,8ff
+PN,19961
+SC,0061
+PS,8000
+CT,20,T
+RE,0
+OL,1,W`pp`pp`pp`pp`pp`pp`pp` Q`  pp0pp0pp0pp0
+OL,2,Wj#kj#k"k#"k#j#kj#kj#kj Qj  7#5#7!#7!7#5
+OL,3,Wj jj|~ j  j j jj jj|~j Qj  5 5 5  5 5 5
+OL,4,Wj jj j j h~|j|~j jj jj|Qj|4}|5 5  5 }|5
+OL,6,UUpp0pp0pp0pp0pp0pp0pp00 Q0 `pp`pp`pp`pp
+OL,7, U7#57#5#7!#7!7#57#57#55 Q5 j#k"k#"k#j#k
+OL,8, U5 5}|5 5  5 5 55 5}|55 Q5 j j j  j j j
+OL,9, U5 55 5 5 |}4}|55 55 5}|Q}|j|~ j  j j|~
+OL,10, U                       Q              
+OL,11, ]T`p`p`p`p`p`p`p` Q0 p0p0p0p0p000  pp  
+OL,12, ]Tjjjz 5 5jjjjjzj Q5 55j j u u%55 j5 
+OL,13, ]Tjjjj 5`ujzjjjjjpQu0u5j j u055j  *% 
+OL,14, ]U                                     
+OL,16, T`p`p`p`p`p`p`p`  0 p0p0p0p0p000       
+OL,17, Tjjjz 5 5jjjjjzj  5 55j j u u%55       
+OL,18, Tjjjj 5`ujzjjjjjp u0u5j j u055j        
+OL,20,Q]Wp0p0p0p0p0p0p00 W0 p0p0p0p0p000T`p0  
+OL,21,Q]W55u5j j 5555u55 W5 55j j u u%55T  
+OL,22,Q]W5555j z0u55555u0Wu0u5j j u055j To?  
+OL,23,Q]                               "     !
+OL,24,QDEVHOME   BPREVPAGE  CNEXTPAGE   DINDEX
+FL,800,811,813,100,8ff,8ff
+PN,19962
+SC,0062
+PS,8000
+CT,20,T
+RE,0
+OL,2,U`p0       `   U]Tp0p0pp0p0p0 `p  p p p 
+OL,3,Uj`0<lh,4<lj <lU]T50u5555u0u0 *?  #|#|# 
+OL,4,Ujp5uzjp5uzj0wsU]Tu555555u0p5  5  /p/p/ 
+OL,5,U        ,.    U]T            ##!  # #  
+OL,7,T`p0       `    ]Wp0p00 00p0            
+OL,8,Tj`0<lh,4<lj <l ]Wj u55 u%u0            
+OL,9,Tjp5uzjp5uzj0ws ]Wj 55u055p5            
+OL,10,T        ,.     ]S                      
+OL,12,S//}                          j5      
+OL,13,S                            j5      
+OL,14,S||7 x|t x|p|t ||0`||0`||0h||4j5  x||t
+OL,15,S         j5j5j5j5j5 `>!j5  pp
+OL,16,S   `      j5j5j5j5j5h?! j5  ##!
+OL,17,S///' +'/ /   / ///!"//!"//!*//%"// +//'
+OL,18,]                                       
+OL,23,T]G                                     
+OL,24,QDEVHOME   BPREVPAGE  CNEXTPAGE   DINDEX
+FL,800,812,814,100,8ff,8ff
+PN,19963
+SC,0063
+PS,8000
+CT,20,T
+RE,0
+OL,1,T]V|   | ||| ||t ||| ||| | | |||  `,<d  
+OL,2,T]V               k|7    ho,=nm 
+OL,3,T]V      1            jn,=nn 
+OL,4,T]Vopp?            z/u    *~,=n> 
+OL,5,T]V"/#/! /// //'  /  /// / /  /   ",-&  
+OL,7, AWEBTEXT ERROR                         
+OL,8,AM880-404 PAGE NOT FOUND                
+OL,13,MCTHIS PAGE DOES NOT EXIST YET!         
+OL,17,MCPLEASE KEY 100 TO RETURN TO THE INDEX 
+FL,200,101,120,251,8ff,8ff 
+PN,19964
+SC,0064
+PS,8000
+CT,20,T
+RE,0
+OL,1, 1                                      
+OL,2, 2abcdefghijklmnopqrstuvwxyz 1234567890 
+OL,3, 3ABCDEFGHIJKLMNOPQRSTUVWXYZ !@#$%^&*() 
+OL,4, 4                                      
+OL,5,M5-`=+[{]};:'"\|,<.>/?~  Double Height  
+OL,6,n6                                      
+OL,7, 7                                      
+OL,8, 8 STEADYHFLASHI  Visable  XHiddenX     
+OL,9, 8                                      
+OL,10,10ARED     Qp,f9#Z#5j,pHYI ]V,,,,,,,
+OL,11,11BGREEN   Rp,f9#Z#5j,pHYI ]W,,,,,,,
+OL,12,12CYELLOW  Sp,f9#Z#5j,pHYI ]T,,,,,,,
+OL,13,13DBLUE    Tp,f9#Z#5j,pHYI ]S,,,,,,,
+OL,14,14EMAGENTA Up,f9#Z#5j,pHYI ]Q,,,,,,,
+OL,15,15FCYAN    Vp,f9#Z#5j,pHYI ]U,,,,,,,
+OL,16,16GWHITE   Wp,f9#Z#5j,pHYI ]R,,,,,,,
+OL,17,17                                      
+OL,18,18Q!"$(0`4%#*hp,'+xt/|}w?o{~            
+OL,19,19R |||| |||| |||| |||| |||| |||| ||||  
+OL,20,20S  j5           j5              
+OL,21,21T  j5  |4  |||  j5  ||  || ||   
+OL,22,22V  j5           j5              
+OL,23,23W  j5  ||| |||  j5      || |||  
+OL,24,QDEVHOME   BPREVPAGE  CNEXTPAGE   DINDEX
+FL,800,898,800,100,8ff,8ff
+PN,19965
+SC,0065
+PS,8000
+CT,20,T
+RE,0
+OL,1,QRSTUVW
+OL,2,QRSTUVW
+OL,3,QRSTUVW
+OL,4,QRSTUVW
+OL,5,QRSTUVW
+OL,6,QRSTUVW
+OL,7,QRSTUVW
+OL,8,QRSTUVW
+OL,9,QRSTUVW
+OL,10,QRSTUVW
+OL,11,QRSTUVW
+OL,12,QRSTUVW
+OL,13,QRSTUVW
+OL,14,QRSTUVW
+OL,15,QRSTUVW
+OL,16,QRSTUVW
+OL,17,QRSTUVW
+OL,18,QRSTUVW
+OL,19,QRSTUVW
+OL,20,QRSTUVW
+OL,21,QRSTUVW
+OL,22,QRSTUVW
+OL,23,QRSTUVW
+OL,24,QDEVHOME   BPREVPAGE  CNEXTPAGE   DINDEX
+FL,800,898,800,100,8ff,8ff
